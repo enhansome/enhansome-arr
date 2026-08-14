@@ -1,0 +1,1414 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jackett",
+          "description": "API Support for your favorite torrent trackers. An alternative to Prowlarr.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T17:59:23Z",
+            "owner": "Jackett",
+            "repo": "Jackett",
+            "stars": 15879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prowlarr",
+          "description": "An indexer manager/proxy built on the popular arr .net/reactjs base stack to integrate with your various PVR apps. Prowlarr supports management of both Torrent Trackers and Usenet Indexers. It integrates seamlessly with Lidarr, Mylar3, Radarr, and Sonarr offering complete management of your indexers with no per app Indexer setup required.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T19:40:09Z",
+            "owner": "Prowlarr",
+            "repo": "Prowlarr",
+            "stars": 7022
+          }
+        }
+      ],
+      "title": "Indexer Managers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SoulSync",
+          "description": "Intelligent Music Discovery & Automation Platform. Automates downloads, curates playlists, monitors artists, and organizes your collection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T21:46:17Z",
+            "owner": "Nezreka",
+            "repo": "SoulSync",
+            "stars": 2132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flexget",
+          "description": "A multipurpose automation tool for all of your media. Support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:11:35Z",
+            "owner": "Flexget",
+            "repo": "Flexget",
+            "stars": 1961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mylar3",
+          "description": "The python3 version of the automated Comic Book downloader (cbr/cbz) for use with various download clients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-25T17:09:46Z",
+            "owner": "mylar3",
+            "repo": "mylar3",
+            "stars": 1457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kapowarr",
+          "description": "A software to build and manage a comic book library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T13:07:36Z",
+            "owner": "Casvt",
+            "repo": "Kapowarr",
+            "stars": 1043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SickGear",
+          "description": "The most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T11:51:51Z",
+            "owner": "SickGear",
+            "repo": "SickGear",
+            "stars": 787
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Questarr",
+          "description": "Track and organize your video game collection with automated discovery and download management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:51:50Z",
+            "owner": "Doezer",
+            "repo": "Questarr",
+            "stars": 553
+          }
+        }
+      ],
+      "title": "Beyond *arr"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FlareSolverr",
+          "description": "Proxy server to bypass Cloudflare protection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-16T00:04:54Z",
+            "owner": "FlareSolverr",
+            "repo": "FlareSolverr",
+            "stars": 15157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tdarr",
+          "description": "Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-05T07:37:45Z",
+            "owner": "HaveAGitGat",
+            "repo": "Tdarr",
+            "stars": 4267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bazarr",
+          "description": "A companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:50:57Z",
+            "owner": "morpheus65535",
+            "repo": "bazarr",
+            "stars": 4205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ombi",
+          "description": "A self-hosted web application that automatically gives your shared Plex or Emby users the ability to request content by themselves! Ombi can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end experience for your users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-06T15:27:58Z",
+            "owner": "Ombi-app",
+            "repo": "Ombi",
+            "stars": 4106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kometa",
+          "description": "An open source Python 3 project that has been designed to ease the creation and maintenance of metadata, collections, and playlists within a Plex Media Server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:50:58Z",
+            "owner": "Kometa-Team",
+            "repo": "Kometa",
+            "stars": 3393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wizarr",
+          "description": "An automatic user invitation system for Plex, Jellyfin, Emby, AudiobookShelf, Komga, Kavita and Romm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T09:05:00Z",
+            "owner": "wizarrrr",
+            "repo": "wizarr",
+            "stars": 3162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tracearr",
+          "description": "Real-time monitoring platform for Plex, Jellyfin, and Emby. Track streams, playback analytics, and account sharing detection in one place.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T21:03:00Z",
+            "owner": "connorgallopo",
+            "repo": "Tracearr",
+            "stars": 2557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cleanuparr",
+          "description": "An advanced cleaner for dead or malicious torrents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T23:52:21Z",
+            "owner": "Cleanuparr",
+            "repo": "Cleanuparr",
+            "stars": 2461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reiverr",
+          "description": "A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-19T13:29:08Z",
+            "owner": "aleksilassila",
+            "repo": "reiverr",
+            "stars": 2334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maintainerr",
+          "description": "Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex and Jellyfin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:20:12Z",
+            "owner": "Maintainerr",
+            "repo": "Maintainerr",
+            "stars": 2185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recyclarr",
+          "description": "Automatically sync TRaSH guides to your Sonarr and Radarr instances.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T17:11:41Z",
+            "owner": "recyclarr",
+            "repo": "recyclarr",
+            "stars": 2067
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Byparr",
+          "description": "An alternative to FlareSolverr as a drop-in replacement, built with seleniumbase and FastAPI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T03:05:58Z",
+            "owner": "ThePhaseless",
+            "repo": "Byparr",
+            "stars": 1827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Radarr-striptracks",
+          "description": "A Docker Mod for the LinuxServer.io Radarr/Sonarr v3 Docker container that adds a script to automatically strip out unwanted audio and subtitle streams, keeping only the desired languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-11T20:22:28Z",
+            "owner": "linuxserver",
+            "repo": "docker-mods",
+            "stars": 1534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unpackerr",
+          "description": "Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T20:31:04Z",
+            "owner": "Unpackerr",
+            "repo": "unpackerr",
+            "stars": 1456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arr-scripts",
+          "description": "Extended Container Scripts. Designed to be easily implemented/added to Linuxserver.io containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-16T21:56:32Z",
+            "owner": "RandomNinjaAtk",
+            "repo": "arr-scripts",
+            "stars": 1448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Midarr",
+          "description": "The minimal lightweight media server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-03-03T23:39:40Z",
+            "owner": "midarrlabs",
+            "repo": "midarr-server",
+            "stars": 1406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuggestArr",
+          "description": "Automatic media content recommendations and download requests based on user activity on the media server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T10:36:51Z",
+            "owner": "giuseppe99barchetta",
+            "repo": "SuggestArr",
+            "stars": 1256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ezarr",
+          "description": "Aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/PleX/Jellyfin mediacenter stack using Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T08:23:52Z",
+            "owner": "Luctia",
+            "repo": "ezarr",
+            "stars": 1061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Soularr",
+          "description": "A Python script that connects Lidarr with Soulseek.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T18:18:34Z",
+            "owner": "mrusse",
+            "repo": "soularr",
+            "stars": 942
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Posterizarr",
+          "description": "Automated poster maker for Plex/Jellyfin/Emby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-13T09:50:45Z",
+            "owner": "fscorrupt",
+            "repo": "posterizarr",
+            "stars": 919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Decluttarr",
+          "description": "Watches radarr, sonarr, lidarr and whisparr download queues and removes downloads if they become stalled or no longer needed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T07:00:48Z",
+            "owner": "ManiMatter",
+            "repo": "decluttarr",
+            "stars": 862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lingarr",
+          "description": "Integrates with Radarr and Sonarr and automates subtitle translation using various locally hosted or SaaS translation services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T21:45:41Z",
+            "owner": "lingarr-translate",
+            "repo": "lingarr",
+            "stars": 840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exportarr",
+          "description": "This will export metrics gathered from Sonarr, Radarr, Lidarr, or Prowlarr.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-11T11:48:59Z",
+            "owner": "onedr0p",
+            "repo": "exportarr",
+            "stars": 817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deployrr",
+          "description": "Automates Homelab setup using Docker and Docker Compose.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-01T20:12:50Z",
+            "owner": "SimpleHomelab",
+            "repo": "Deployrr",
+            "stars": 797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Managarr",
+          "description": "A TUI and CLI to help you manage all your Servarrs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-06T14:58:06Z",
+            "owner": "Dark-Alex-17",
+            "repo": "managarr",
+            "stars": 758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Janitorr",
+          "description": "Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-30T19:00:56Z",
+            "owner": "Schaka",
+            "repo": "janitorr",
+            "stars": 746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pulsarr",
+          "description": "An integration tool that bridges Plex watchlists with Sonarr and Radarr, enabling real-time media monitoring and automated content acquisition all from within the Plex App itself.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T23:11:51Z",
+            "owner": "jamcalli",
+            "repo": "Pulsarr",
+            "stars": 733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Monitorr",
+          "description": "A self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-05-25T16:14:34Z",
+            "owner": "Monitorr",
+            "repo": "Monitorr",
+            "stars": 678
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autoscan",
+          "description": "Replaces the default Plex and Emby behaviour for picking up changes on the file system.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-08-03T09:24:11Z",
+            "owner": "Cloudbox",
+            "repo": "autoscan",
+            "stars": 660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trawl",
+          "description": "Another drop-in replacement alternative to FlareSolverr which uses Invisible Playwright to bypass captchas of various types.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T16:47:11Z",
+            "owner": "germondai",
+            "repo": "trawl",
+            "stars": 649
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Posterr",
+          "description": "A digital poster app for Plex, Sonarr and Radarr.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-20T09:02:29Z",
+            "owner": "petersem",
+            "repo": "posterr",
+            "stars": 640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Traktarr",
+          "description": "Script to add new series & movies to Sonarr/Radarr based on Trakt lists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-14T18:34:00Z",
+            "owner": "l3uddz",
+            "repo": "traktarr",
+            "stars": 625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Checkrr",
+          "description": "Scans your library files for corrupt media and replace the files via sonarr and radarr.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-11T16:19:17Z",
+            "owner": "aetaric",
+            "repo": "checkrr",
+            "stars": 571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autopulse",
+          "description": "An automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T09:03:43Z",
+            "owner": "dan-online",
+            "repo": "autopulse",
+            "stars": 532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Letterboxd List Radarr",
+          "description": "Connect Radarr to letterboxd.com lists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-19T08:41:45Z",
+            "owner": "screeny05",
+            "repo": "letterboxd-list-radarr",
+            "stars": 512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wrapperr",
+          "description": "Website based application and API that collects Plex statistics using Tautulli and displays it in a nice format. Similar to the Spotify Wrapped concept.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-29T19:47:05Z",
+            "owner": "aunefyren",
+            "repo": "wrapperr",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trailarr",
+          "description": "A Docker application to download and manage trailers for your Radarr, and Sonarr libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:09:03Z",
+            "owner": "nandyalu",
+            "repo": "trailarr",
+            "stars": 443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scraparr",
+          "description": "This will generate Prometheus Metrics gathered from various *arr and *arr-stack applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T17:59:25Z",
+            "owner": "thecfu",
+            "repo": "scraparr",
+            "stars": 415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nixarr",
+          "description": "A Nixos module that aims to make the installation and management of a home media server as easy, and pain free, as possible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-07-25T16:44:28Z",
+            "owner": "nix-media-server",
+            "repo": "nixarr",
+            "stars": 409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MediathekArr",
+          "description": "Integrate ARD&ZDF Mediathek in Prowlarr, Sonarr, and Radarr (German free public TV stations).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T10:32:08Z",
+            "owner": "PCJones",
+            "repo": "MediathekArr",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Buildarr",
+          "description": "A solution to automating deployment and configuration of your *arr stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-04T12:01:01Z",
+            "owner": "buildarr",
+            "repo": "buildarr",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Watchlistarr",
+          "description": "Automatically sync Plex Watchlists with Sonarr and Radarr.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-11-08T11:00:44Z",
+            "owner": "nylonee",
+            "repo": "watchlistarr",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flemmarr",
+          "description": "Easy, automatic configuration for your -arr apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-26T02:22:41Z",
+            "owner": "Flemmarr",
+            "repo": "Flemmarr",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deleterr",
+          "description": "Automates deleting inactive and stale media from Plex/Sonarr/Radarr.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T08:15:59Z",
+            "owner": "rfsbraz",
+            "repo": "deleterr",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UmlautAdaptarr",
+          "description": "A tool to work around Sonarr, Radarr and Lidarr problems with foreign languages (primarily German at the moment).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T10:32:48Z",
+            "owner": "PCJones",
+            "repo": "UmlautAdaptarr",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cleanarr (se1exin)",
+          "description": "A simple UI to help find and delete duplicate and sample files from your Plex server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-23T21:55:25Z",
+            "owner": "se1exin",
+            "repo": "Cleanarr",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prefetcharr",
+          "description": "Let Sonarr fetch the next season of a show you are watching on Jellyfin/Emby/Plex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-19T19:02:12Z",
+            "owner": "p-hueber",
+            "repo": "prefetcharr",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Digarr",
+          "description": "AI-powered music discovery that builds a taste profile from your listening sources and finds new artists. Optionally sends approved artists straight to Lidarr.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T16:24:53Z",
+            "owner": "iuliandita",
+            "repo": "digarr",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Listrr",
+          "description": "Creates lists for shows and movies based on your filters. The created lists get updated every 24 hours based on your filters, so Listrr will add all new items that match your filters, and will also remove all items that do not match your filter configuration anymore. Supports Sonarr, Radarr, Traktarr and Python-PlexLibrary.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T09:01:09Z",
+            "owner": "TheUltimateC0der",
+            "repo": "listrr",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Excludarr",
+          "description": "A CLI that interacts with Radarr and Sonarr instances. It completely manages you library in Sonarr and Radarr to only consist out of movies and series that are not present on any of the configured streaming providers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-12T10:51:24Z",
+            "owner": "haijeploeg",
+            "repo": "excludarr",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Posteria",
+          "description": "A sleek, modern solution for managing your movie, TV show, and collection posters.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2026-07-29T13:16:21Z",
+            "owner": "jeremehancock",
+            "repo": "Posteria",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloud Seeder",
+          "description": "1 click installer and updater for Prowlarr, Lidarr, Radarr, Sonarr and Whisparr. Also links and connects qBittorrent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-06-10T03:25:37Z",
+            "owner": "ipv6rslimited",
+            "repo": "cloudseeder",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Toolbarr",
+          "description": "Provides a suite of utilities to fix problems with Starr applications. Toolbarr allows you to perform various actions against your Starr apps and their SQLite3 databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T23:41:13Z",
+            "owner": "Notifiarr",
+            "repo": "toolbarr",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Just A Bunch Of Starr Scripts",
+          "description": "PowerShell scripts for Starr apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-03-26T02:39:52Z",
+            "owner": "angrycuban13",
+            "repo": "Just-A-Bunch-Of-Starr-Scripts",
+            "stars": 175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gclone",
+          "description": "A rclone mod with auto SA rotation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-09-16T19:36:52Z",
+            "owner": "l3v11",
+            "repo": "gclone",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quasarr",
+          "description": "Connects JDownloader with Radarr, Sonarr, Lidarr and LazyLibrarian. It also decrypts links protected by CAPTCHAs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T08:45:49Z",
+            "owner": "rix1337",
+            "repo": "Quasarr",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Muxarr",
+          "description": "Optimize and clean up your media library by stripping redundant audio tracks and subtitles without re-encoding. Features *arr integration for original language detection and automatic processing, with an easy-to-use web interface to preview changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T08:13:09Z",
+            "owner": "KirovAir",
+            "repo": "muxarr",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Episeerr",
+          "description": "Automates sending and deleting episodes or seasons to sonarr one at a time as played.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T22:53:30Z",
+            "owner": "Vansmak",
+            "repo": "episeerr",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iPlayarr",
+          "description": "Download-automation for BBC iPlayer — integrates with Sonarr/Radarr as a Newznab API endpoint.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-22T12:53:20Z",
+            "owner": "Nikorag",
+            "repo": "iplayarr",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StarrScripts",
+          "description": "Bash scripts for Starr apps (Radarr, Sonarr, Lidarr, Readarr) — custom formats, naming, and automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-09T12:31:21Z",
+            "owner": "baker-scripts",
+            "repo": "StarrScripts",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linkarr",
+          "description": "Automatically organize your media library without moving or duplicating the source files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-27T00:07:35Z",
+            "owner": "itsmejoeeey",
+            "repo": "linkarr",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dasharr",
+          "description": "Dashboard of torrent indexers usage, profile stats evolution over time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-27T10:04:06Z",
+            "owner": "Arcadia-Solutions",
+            "repo": "Dasharr",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calendarr",
+          "description": "A notification system that sends scheduled Sonarr/Radarr calendar updates to Discord and Slack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-09T03:20:02Z",
+            "owner": "jordanlambrecht",
+            "repo": "calendarr",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plexist",
+          "description": "An application for recreating Spotify and Deezer playlist in Plex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T02:23:34Z",
+            "owner": "Gyarbij",
+            "repo": "Plexist",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taggarr",
+          "description": "Dub analysis and tagging for media management and filtering your favourite shows in dub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-22T00:54:21Z",
+            "owner": "BassHous3",
+            "repo": "taggarr",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transcoderr",
+          "description": "A transcoding pipeline designed to normalize file types into a common filetype. Dynamically configurable using plugins allowing highly customizable pipelines to be built.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-27T07:38:57Z",
+            "owner": "drkno",
+            "repo": "transcoderr",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collectarr",
+          "description": "A Python script for checking your Radarr database and setting up collection lists. Also supports \"smart\" actor lists based on TMDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-26T16:35:47Z",
+            "owner": "RiffSphere",
+            "repo": "Collectarr",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Labelarr",
+          "description": "Application that bridges your Plex media libraries with The Movie Database, adding relevant keywords as searchable labels or genres for custom filters in Plex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-16T16:52:07Z",
+            "owner": "nullable-eth",
+            "repo": "labelarr",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prunerr",
+          "description": "Perma-seed Servarr media libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-06T00:00:22Z",
+            "owner": "rpatterson",
+            "repo": "prunerr",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cleanarr (hrenard)",
+          "description": "A small utility tasked to automatically clean radarr and sonarr files over time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-06-01T12:13:23Z",
+            "owner": "hrenard",
+            "repo": "cleanarr",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sonarr Episode Name Checker",
+          "description": "Bash and Powershell scripts to check for episodes named \"Episode ##\" or \"TBA\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2023-11-02T13:35:24Z",
+            "owner": "tronyx",
+            "repo": "sonarr-episode-name-checker",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plundrio",
+          "description": "A put.io download client for *arr implementing the transmission RPC interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-14T00:00:08Z",
+            "owner": "elsbrock",
+            "repo": "plundrio",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mediarr",
+          "description": "CLI tool to add new media to pvr's from the arr suite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-07-16T18:03:27Z",
+            "owner": "l3uddz",
+            "repo": "mediarr",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proxarr",
+          "description": "Prevents Sonarr/Radarr from downloading media already available for your region on streaming services (e.g., Netflix, Amazon Prime Video)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-02T07:25:40Z",
+            "owner": "Fazzani",
+            "repo": "Proxarr",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crossarr",
+          "description": "Cross Seed via Arr Programs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-17T21:39:07Z",
+            "owner": "TMD20",
+            "repo": "crossarr",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fetcharr",
+          "description": "Syncs Fetch TV PVR recordings into Plex. Watches a Fetch TV box on the LAN, copies new episodes of followed shows into the Plex TV library, and triggers a section refresh.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T04:20:28Z",
+            "owner": "furey",
+            "repo": "fetcharr",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Complimenting Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Requestrr",
+          "description": "A Discord bot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-23T11:52:34Z",
+            "owner": "thomst08",
+            "repo": "requestrr",
+            "stars": 485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Searcharr",
+          "description": "Sonarr & Radarr Telegram Bot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-08T00:03:09Z",
+            "owner": "toddrob99",
+            "repo": "searcharr",
+            "stars": 304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Addarr",
+          "description": "Telegram Bot for adding series/movies to Sonarr/Radarr or for changing the download speed of Transmission/Sabnzbd.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-15T19:38:23Z",
+            "owner": "Waterboy1602",
+            "repo": "Addarr",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Botdarr",
+          "description": "Slack/Discord/Telegram/Matrix bot for accessing radarr, sonarr, and lidarr.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-08T00:26:16Z",
+            "owner": "shayaantx",
+            "repo": "botdarr",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Membarr",
+          "description": "Discord Bot to invite a user to a Plex or Jellyfin server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-19T15:56:25Z",
+            "owner": "Yoruio",
+            "repo": "Membarr",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jackett2telegram",
+          "description": "A self-hosted Telegram Python Bot that dumps posts from Jackett RSS feeds to a Telegram chat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-18T18:49:22Z",
+            "owner": "danimart1991",
+            "repo": "jackett2telegram",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doplarr",
+          "description": "An *arr request bot for Discord.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T00:26:51Z",
+            "owner": "activexray",
+            "repo": "doplarr_rs",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "Bots"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Homepage",
+          "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T16:48:43Z",
+            "owner": "gethomepage",
+            "repo": "homepage",
+            "stars": 31985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dashy",
+          "description": "A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-13T23:45:20Z",
+            "owner": "lissy93",
+            "repo": "dashy",
+            "stars": 26177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Homer",
+          "description": "A very simple static homepage for your server with offline health check.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-07T14:51:57Z",
+            "owner": "bastienwirtz",
+            "repo": "homer",
+            "stars": 11549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heimdall",
+          "description": "An Application dashboard and launcher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T17:05:52Z",
+            "owner": "linuxserver",
+            "repo": "Heimdall",
+            "stars": 9299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flame",
+          "description": "A self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-25T12:30:10Z",
+            "owner": "pawelmalak",
+            "repo": "flame",
+            "stars": 6512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Organizr",
+          "description": "HTPC/Homelab Services Organizer - Written in PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-19T23:24:29Z",
+            "owner": "causefx",
+            "repo": "Organizr",
+            "stars": 5808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Homarr",
+          "description": "A simple, yet powerful dashboard for your server. A sleek, modern dashboard that puts all of your apps and services at your fingertips.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T00:00:41Z",
+            "owner": "homarr-labs",
+            "repo": "homarr",
+            "stars": 4532
+          }
+        }
+      ],
+      "title": "Dashboards"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T00:03:10.504Z",
+    "original_repository": "Ravencentric/awesome-arr",
+    "original_repository_sha": "66f34c703768e62390a9b39cb8acd6d67c0868b9",
+    "enhanced_repository": "enhansome/enhansome-arr",
+    "enhanced_repository_description": null,
+    "title": "Awesome *Arr with stars"
+  }
+}
