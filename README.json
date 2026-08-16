@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T23:31:22Z",
+            "last_commit": "2026-08-16T21:08:26Z",
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 15883
+            "stars": 15885
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-12T19:40:09Z",
             "owner": "Prowlarr",
             "repo": "Prowlarr",
-            "stars": 7030
+            "stars": 7041
           }
         }
       ],
@@ -45,7 +45,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T22:58:25Z",
+            "last_commit": "2026-08-16T23:26:58Z",
             "owner": "Nezreka",
             "repo": "SoulSync",
             "stars": 2143
@@ -59,7 +59,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T01:11:35Z",
+            "last_commit": "2026-08-16T22:06:42Z",
             "owner": "Flexget",
             "repo": "Flexget",
             "stars": 1961
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-13T13:07:36Z",
             "owner": "Casvt",
             "repo": "Kapowarr",
-            "stars": 1045
+            "stars": 1044
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-08-14T11:41:41Z",
             "owner": "Doezer",
             "repo": "Questarr",
-            "stars": 557
+            "stars": 558
           }
         }
       ],
@@ -138,7 +138,7 @@
             "last_commit": "2026-07-16T00:04:54Z",
             "owner": "FlareSolverr",
             "repo": "FlareSolverr",
-            "stars": 15176
+            "stars": 15184
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-08-05T07:37:45Z",
             "owner": "HaveAGitGat",
             "repo": "Tdarr",
-            "stars": 4271
+            "stars": 4273
           }
         },
         {
@@ -163,10 +163,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T12:59:21Z",
+            "last_commit": "2026-08-16T14:18:38Z",
             "owner": "morpheus65535",
             "repo": "bazarr",
-            "stars": 4209
+            "stars": 4213
           }
         },
         {
@@ -191,10 +191,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T17:21:36Z",
+            "last_commit": "2026-08-16T22:56:04Z",
             "owner": "Kometa-Team",
             "repo": "Kometa",
-            "stars": 3396
+            "stars": 3397
           }
         },
         {
@@ -205,10 +205,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T03:55:07Z",
+            "last_commit": "2026-08-16T03:59:46Z",
             "owner": "wizarrrr",
             "repo": "wizarr",
-            "stars": 3163
+            "stars": 3165
           }
         },
         {
@@ -219,10 +219,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T15:43:35Z",
+            "last_commit": "2026-08-16T23:36:45Z",
             "owner": "connorgallopo",
             "repo": "Tracearr",
-            "stars": 2564
+            "stars": 2572
           }
         },
         {
@@ -233,10 +233,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T23:28:56Z",
+            "last_commit": "2026-08-16T15:41:51Z",
             "owner": "Cleanuparr",
             "repo": "Cleanuparr",
-            "stars": 2468
+            "stars": 2471
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-02-19T13:29:08Z",
             "owner": "aleksilassila",
             "repo": "reiverr",
-            "stars": 2336
+            "stars": 2337
           }
         },
         {
@@ -261,10 +261,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T21:06:00Z",
+            "last_commit": "2026-08-16T20:59:24Z",
             "owner": "Maintainerr",
             "repo": "Maintainerr",
-            "stars": 2194
+            "stars": 2196
           }
         },
         {
@@ -275,10 +275,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T15:30:02Z",
+            "last_commit": "2026-08-16T20:52:17Z",
             "owner": "recyclarr",
             "repo": "recyclarr",
-            "stars": 2072
+            "stars": 2074
           }
         },
         {
@@ -289,10 +289,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T15:15:31Z",
+            "last_commit": "2026-08-16T19:16:21Z",
             "owner": "ThePhaseless",
             "repo": "Byparr",
-            "stars": 1833
+            "stars": 1837
           }
         },
         {
@@ -303,7 +303,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-11T20:22:28Z",
+            "last_commit": "2026-08-16T20:51:02Z",
             "owner": "linuxserver",
             "repo": "docker-mods",
             "stars": 1535
@@ -359,7 +359,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T10:36:51Z",
+            "last_commit": "2026-08-16T10:35:44Z",
             "owner": "giuseppe99barchetta",
             "repo": "SuggestArr",
             "stars": 1261
@@ -390,7 +390,7 @@
             "last_commit": "2026-07-31T18:18:34Z",
             "owner": "mrusse",
             "repo": "soularr",
-            "stars": 944
+            "stars": 945
           }
         },
         {
@@ -429,7 +429,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T21:45:41Z",
+            "last_commit": "2026-08-16T09:01:05Z",
             "owner": "lingarr-translate",
             "repo": "lingarr",
             "stars": 844
@@ -502,7 +502,7 @@
             "last_commit": "2026-08-14T19:00:50Z",
             "owner": "jamcalli",
             "repo": "Pulsarr",
-            "stars": 735
+            "stars": 736
           }
         },
         {
@@ -521,20 +521,6 @@
         },
         {
           "node_type": "item",
-          "title": "Autoscan",
-          "description": "Replaces the default Plex and Emby behaviour for picking up changes on the file system.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2024-08-03T09:24:11Z",
-            "owner": "Cloudbox",
-            "repo": "autoscan",
-            "stars": 660
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Trawl",
           "description": "Another drop-in replacement alternative to FlareSolverr which uses Invisible Playwright to bypass captchas of various types.",
           "children": [],
@@ -544,6 +530,20 @@
             "last_commit": "2026-08-13T16:47:11Z",
             "owner": "germondai",
             "repo": "trawl",
+            "stars": 673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autoscan",
+          "description": "Replaces the default Plex and Emby behaviour for picking up changes on the file system.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-08-03T09:24:11Z",
+            "owner": "Cloudbox",
+            "repo": "autoscan",
             "stars": 660
           }
         },
@@ -586,7 +586,7 @@
             "last_commit": "2026-07-11T16:19:17Z",
             "owner": "aetaric",
             "repo": "checkrr",
-            "stars": 571
+            "stars": 574
           }
         },
         {
@@ -597,7 +597,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T13:04:35Z",
+            "last_commit": "2026-08-16T06:06:52Z",
             "owner": "dan-online",
             "repo": "autopulse",
             "stars": 533
@@ -614,7 +614,7 @@
             "last_commit": "2025-09-19T08:41:45Z",
             "owner": "screeny05",
             "repo": "letterboxd-list-radarr",
-            "stars": 512
+            "stars": 513
           }
         },
         {
@@ -639,7 +639,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T06:39:19Z",
+            "last_commit": "2026-08-16T01:00:40Z",
             "owner": "nandyalu",
             "repo": "trailarr",
             "stars": 444
@@ -670,7 +670,7 @@
             "last_commit": "2026-07-25T16:44:28Z",
             "owner": "nix-media-server",
             "repo": "nixarr",
-            "stars": 409
+            "stars": 410
           }
         },
         {
@@ -759,6 +759,20 @@
         },
         {
           "node_type": "item",
+          "title": "Prefetcharr",
+          "description": "Let Sonarr fetch the next season of a show you are watching on Jellyfin/Emby/Plex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-19T19:02:12Z",
+            "owner": "p-hueber",
+            "repo": "prefetcharr",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Cleanarr (se1exin)",
           "description": "A simple UI to help find and delete duplicate and sample files from your Plex server.",
           "children": [],
@@ -773,30 +787,16 @@
         },
         {
           "node_type": "item",
-          "title": "Prefetcharr",
-          "description": "Let Sonarr fetch the next season of a show you are watching on Jellyfin/Emby/Plex.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-19T19:02:12Z",
-            "owner": "p-hueber",
-            "repo": "prefetcharr",
-            "stars": 274
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Digarr",
           "description": "AI-powered music discovery that builds a taste profile from your listening sources and finds new artists. Optionally sends approved artists straight to Lidarr.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T16:25:19Z",
+            "last_commit": "2026-08-16T23:26:34Z",
             "owner": "iuliandita",
             "repo": "digarr",
-            "stars": 272
+            "stars": 273
           }
         },
         {
@@ -905,7 +905,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T08:45:49Z",
+            "last_commit": "2026-08-16T14:05:49Z",
             "owner": "rix1337",
             "repo": "Quasarr",
             "stars": 151
@@ -919,10 +919,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T15:24:55Z",
+            "last_commit": "2026-08-16T19:34:16Z",
             "owner": "KirovAir",
             "repo": "muxarr",
-            "stars": 148
+            "stars": 149
           }
         },
         {
@@ -1076,7 +1076,7 @@
             "last_commit": "2026-06-16T16:52:07Z",
             "owner": "nullable-eth",
             "repo": "labelarr",
-            "stars": 62
+            "stars": 63
           }
         },
         {
@@ -1118,7 +1118,7 @@
             "last_commit": "2023-11-02T13:35:24Z",
             "owner": "tronyx",
             "repo": "sonarr-episode-name-checker",
-            "stars": 47
+            "stars": 46
           }
         },
         {
@@ -1208,7 +1208,7 @@
             "last_commit": "2026-06-23T11:52:34Z",
             "owner": "thomst08",
             "repo": "requestrr",
-            "stars": 485
+            "stars": 486
           }
         },
         {
@@ -1289,10 +1289,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-03T00:26:51Z",
+            "last_commit": "2026-08-16T19:00:57Z",
             "owner": "activexray",
             "repo": "doplarr_rs",
-            "stars": 38
+            "stars": 40
           }
         }
       ],
@@ -1309,10 +1309,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T18:05:47Z",
+            "last_commit": "2026-08-16T14:21:51Z",
             "owner": "gethomepage",
             "repo": "homepage",
-            "stars": 32033
+            "stars": 32058
           }
         },
         {
@@ -1323,10 +1323,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-08-15T13:48:53Z",
+            "last_commit": "2026-08-16T10:31:41Z",
             "owner": "lissy93",
             "repo": "dashy",
-            "stars": 26197
+            "stars": 26212
           }
         },
         {
@@ -1340,7 +1340,7 @@
             "last_commit": "2026-08-07T14:51:57Z",
             "owner": "bastienwirtz",
             "repo": "homer",
-            "stars": 11551
+            "stars": 11555
           }
         },
         {
@@ -1354,7 +1354,7 @@
             "last_commit": "2026-08-12T17:05:52Z",
             "owner": "linuxserver",
             "repo": "Heimdall",
-            "stars": 9299
+            "stars": 9301
           }
         },
         {
@@ -1368,7 +1368,7 @@
             "last_commit": "2026-06-25T12:30:10Z",
             "owner": "pawelmalak",
             "repo": "flame",
-            "stars": 6513
+            "stars": 6512
           }
         },
         {
@@ -1382,7 +1382,7 @@
             "last_commit": "2026-05-19T23:24:29Z",
             "owner": "causefx",
             "repo": "Organizr",
-            "stars": 5808
+            "stars": 5809
           }
         },
         {
@@ -1393,10 +1393,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T22:23:14Z",
+            "last_commit": "2026-08-16T23:15:56Z",
             "owner": "homarr-labs",
             "repo": "homarr",
-            "stars": 4539
+            "stars": 4553
           }
         }
       ],
@@ -1404,9 +1404,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:39:30.804Z",
+    "last_updated": "2026-08-16T23:38:52.338Z",
     "original_repository": "Ravencentric/awesome-arr",
-    "original_repository_sha": "66f34c703768e62390a9b39cb8acd6d67c0868b9",
+    "original_repository_sha": "89ceba83f7b1540959069d88044c593ac5d394c3",
     "enhanced_repository": "enhansome/enhansome-arr",
     "enhanced_repository_description": null,
     "title": "Awesome *Arr with stars"
