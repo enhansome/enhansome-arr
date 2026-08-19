@@ -12,10 +12,10 @@
             "archived": false,
             "id": 45195614,
             "language": "C#",
-            "last_commit": "2026-08-19T08:01:11Z",
+            "last_commit": "2026-08-19T19:45:38Z",
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 15897
+            "stars": 15906
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 305021589,
             "language": "C#",
-            "last_commit": "2026-08-12T19:40:09Z",
+            "last_commit": "2026-08-19T20:27:29Z",
             "owner": "Prowlarr",
             "repo": "Prowlarr",
-            "stars": 7050
+            "stars": 7053
           }
         }
       ],
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 521043428,
             "language": "Python",
-            "last_commit": "2026-08-18T15:10:23Z",
+            "last_commit": "2026-08-19T16:16:03Z",
             "owner": "Casvt",
             "repo": "Kapowarr",
-            "stars": 1044
+            "stars": 1045
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 1062041316,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T20:10:23Z",
+            "last_commit": "2026-08-19T20:12:03Z",
             "owner": "Doezer",
             "repo": "Questarr",
             "stars": 562
@@ -147,7 +147,7 @@
             "last_commit": "2026-07-16T00:04:54Z",
             "owner": "FlareSolverr",
             "repo": "FlareSolverr",
-            "stars": 15222
+            "stars": 15228
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-05T07:37:45Z",
             "owner": "HaveAGitGat",
             "repo": "Tdarr",
-            "stars": 4275
+            "stars": 4277
           }
         },
         {
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 88102501,
             "language": "Python",
-            "last_commit": "2026-08-18T02:29:32Z",
+            "last_commit": "2026-08-19T21:35:16Z",
             "owner": "morpheus65535",
             "repo": "bazarr",
-            "stars": 4222
+            "stars": 4223
           }
         },
         {
@@ -234,10 +234,10 @@
             "archived": false,
             "id": 1105674960,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T05:21:00Z",
+            "last_commit": "2026-08-19T18:50:07Z",
             "owner": "connorgallopo",
             "repo": "Tracearr",
-            "stars": 2579
+            "stars": 2580
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-18T12:59:49Z",
             "owner": "Cleanuparr",
             "repo": "Cleanuparr",
-            "stars": 2475
+            "stars": 2477
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-02-19T13:29:08Z",
             "owner": "aleksilassila",
             "repo": "reiverr",
-            "stars": 2337
+            "stars": 2338
           }
         },
         {
@@ -279,10 +279,10 @@
             "archived": false,
             "id": 447140444,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T05:31:05Z",
+            "last_commit": "2026-08-19T22:17:22Z",
             "owner": "Maintainerr",
             "repo": "Maintainerr",
-            "stars": 2203
+            "stars": 2204
           }
         },
         {
@@ -294,10 +294,10 @@
             "archived": false,
             "id": 336108922,
             "language": "C#",
-            "last_commit": "2026-08-19T11:50:38Z",
+            "last_commit": "2026-08-19T20:40:30Z",
             "owner": "recyclarr",
             "repo": "recyclarr",
-            "stars": 2079
+            "stars": 2081
           }
         },
         {
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 833175677,
             "language": "Python",
-            "last_commit": "2026-08-18T18:08:38Z",
+            "last_commit": "2026-08-19T15:15:48Z",
             "owner": "ThePhaseless",
             "repo": "Byparr",
             "stars": 1841
@@ -387,7 +387,7 @@
             "last_commit": "2026-08-17T10:37:40Z",
             "owner": "giuseppe99barchetta",
             "repo": "SuggestArr",
-            "stars": 1269
+            "stars": 1268
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-08-11T08:23:52Z",
             "owner": "Luctia",
             "repo": "ezarr",
-            "stars": 1063
+            "stars": 1064
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-07-31T18:18:34Z",
             "owner": "mrusse",
             "repo": "soularr",
-            "stars": 949
+            "stars": 950
           }
         },
         {
@@ -552,7 +552,7 @@
             "last_commit": "2026-08-13T16:47:11Z",
             "owner": "germondai",
             "repo": "trawl",
-            "stars": 700
+            "stars": 701
           }
         },
         {
@@ -684,7 +684,7 @@
             "archived": false,
             "id": 768813127,
             "language": "Python",
-            "last_commit": "2026-08-17T18:22:44Z",
+            "last_commit": "2026-08-19T15:54:41Z",
             "owner": "nandyalu",
             "repo": "trailarr",
             "stars": 442
@@ -849,7 +849,7 @@
             "archived": false,
             "id": 1184726701,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T20:59:35Z",
+            "last_commit": "2026-08-19T16:28:22Z",
             "owner": "iuliandita",
             "repo": "digarr",
             "stars": 274
@@ -987,7 +987,7 @@
             "last_commit": "2026-08-16T19:34:16Z",
             "owner": "KirovAir",
             "repo": "muxarr",
-            "stars": 148
+            "stars": 149
           }
         },
         {
@@ -1077,7 +1077,7 @@
             "last_commit": "2026-02-09T03:20:02Z",
             "owner": "jordanlambrecht",
             "repo": "calendarr",
-            "stars": 104
+            "stars": 105
           }
         },
         {
@@ -1209,7 +1209,7 @@
             "archived": false,
             "id": 933440610,
             "language": "Go",
-            "last_commit": "2026-08-14T04:11:17Z",
+            "last_commit": "2026-08-19T23:13:12Z",
             "owner": "elsbrock",
             "repo": "plundrio",
             "stars": 45
@@ -1293,7 +1293,7 @@
             "last_commit": "2026-06-23T11:52:34Z",
             "owner": "thomst08",
             "repo": "requestrr",
-            "stars": 487
+            "stars": 488
           }
         },
         {
@@ -1401,10 +1401,10 @@
             "archived": false,
             "id": 528313152,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T01:39:51Z",
+            "last_commit": "2026-08-19T17:25:26Z",
             "owner": "gethomepage",
             "repo": "homepage",
-            "stars": 32093
+            "stars": 32106
           }
         },
         {
@@ -1419,7 +1419,7 @@
             "last_commit": "2026-08-16T10:31:41Z",
             "owner": "lissy93",
             "repo": "dashy",
-            "stars": 26235
+            "stars": 26238
           }
         },
         {
@@ -1449,7 +1449,7 @@
             "last_commit": "2026-08-12T17:05:52Z",
             "owner": "linuxserver",
             "repo": "Heimdall",
-            "stars": 9301
+            "stars": 9303
           }
         },
         {
@@ -1464,7 +1464,7 @@
             "last_commit": "2026-06-25T12:30:10Z",
             "owner": "pawelmalak",
             "repo": "flame",
-            "stars": 6516
+            "stars": 6515
           }
         },
         {
@@ -1491,10 +1491,10 @@
             "archived": false,
             "id": 729308541,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:01:11Z",
+            "last_commit": "2026-08-19T22:01:55Z",
             "owner": "homarr-labs",
             "repo": "homarr",
-            "stars": 4574
+            "stars": 4579
           }
         }
       ],
@@ -1502,7 +1502,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:18:09.389Z",
+    "last_updated": "2026-08-19T23:42:30.828Z",
     "original_repository": "Ravencentric/awesome-arr",
     "original_repository_id": 554665860,
     "original_repository_sha": "89ceba83f7b1540959069d88044c593ac5d394c3",
