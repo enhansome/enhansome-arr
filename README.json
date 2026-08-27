@@ -12,10 +12,10 @@
             "archived": false,
             "id": 45195614,
             "language": "C#",
-            "last_commit": "2026-08-26T23:23:59Z",
+            "last_commit": "2026-08-27T05:57:08Z",
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 15961
+            "stars": 15962
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-23T08:12:32Z",
             "owner": "Prowlarr",
             "repo": "Prowlarr",
-            "stars": 7102
+            "stars": 7103
           }
         }
       ],
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 1016941202,
             "language": "Python",
-            "last_commit": "2026-08-26T04:55:49Z",
+            "last_commit": "2026-08-27T04:39:43Z",
             "owner": "Nezreka",
             "repo": "SoulSync",
-            "stars": 2177
+            "stars": 2179
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-25T07:48:45Z",
             "owner": "Doezer",
             "repo": "Questarr",
-            "stars": 588
+            "stars": 589
           }
         }
       ],
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-25T06:10:08Z",
             "owner": "FlareSolverr",
             "repo": "FlareSolverr",
-            "stars": 15317
+            "stars": 15318
           }
         },
         {
@@ -174,7 +174,7 @@
             "archived": false,
             "id": 88102501,
             "language": "Python",
-            "last_commit": "2026-08-26T15:21:51Z",
+            "last_commit": "2026-08-27T10:29:42Z",
             "owner": "morpheus65535",
             "repo": "bazarr",
             "stars": 4234
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-27T02:20:41Z",
             "owner": "connorgallopo",
             "repo": "Tracearr",
-            "stars": 2545
+            "stars": 2521
           }
         },
         {
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 883948587,
             "language": "C#",
-            "last_commit": "2026-08-26T14:39:51Z",
+            "last_commit": "2026-08-27T08:12:11Z",
             "owner": "Cleanuparr",
             "repo": "Cleanuparr",
             "stars": 2494
@@ -267,7 +267,7 @@
             "last_commit": "2026-02-19T13:29:08Z",
             "owner": "aleksilassila",
             "repo": "reiverr",
-            "stars": 2341
+            "stars": 2342
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-26T19:33:09Z",
             "owner": "Maintainerr",
             "repo": "Maintainerr",
-            "stars": 2230
+            "stars": 2231
           }
         },
         {
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 833175677,
             "language": "Python",
-            "last_commit": "2026-08-27T01:35:23Z",
+            "last_commit": "2026-08-27T05:28:10Z",
             "owner": "ThePhaseless",
             "repo": "Byparr",
             "stars": 1866
@@ -339,7 +339,7 @@
             "archived": false,
             "id": 132426524,
             "language": "Go",
-            "last_commit": "2026-08-27T02:42:29Z",
+            "last_commit": "2026-08-27T08:29:50Z",
             "owner": "Unpackerr",
             "repo": "unpackerr",
             "stars": 1463
@@ -387,7 +387,7 @@
             "last_commit": "2026-08-24T10:36:08Z",
             "owner": "giuseppe99barchetta",
             "repo": "SuggestArr",
-            "stars": 1274
+            "stars": 1280
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-08-11T08:23:52Z",
             "owner": "Luctia",
             "repo": "ezarr",
-            "stars": 1065
+            "stars": 1064
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-07-31T18:18:34Z",
             "owner": "mrusse",
             "repo": "soularr",
-            "stars": 959
+            "stars": 960
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2026-08-22T12:08:25Z",
             "owner": "lingarr-translate",
             "repo": "lingarr",
-            "stars": 854
+            "stars": 855
           }
         },
         {
@@ -534,7 +534,7 @@
             "archived": false,
             "id": 914233315,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T02:06:31Z",
+            "last_commit": "2026-08-27T05:11:59Z",
             "owner": "jamcalli",
             "repo": "Pulsarr",
             "stars": 739
@@ -552,7 +552,7 @@
             "last_commit": "2026-08-25T21:36:10Z",
             "owner": "germondai",
             "repo": "trawl",
-            "stars": 723
+            "stars": 725
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2023-03-14T18:34:00Z",
             "owner": "l3uddz",
             "repo": "traktarr",
-            "stars": 625
+            "stars": 624
           }
         },
         {
@@ -822,7 +822,7 @@
             "last_commit": "2026-08-26T16:37:56Z",
             "owner": "iuliandita",
             "repo": "digarr",
-            "stars": 279
+            "stars": 280
           }
         },
         {
@@ -984,7 +984,7 @@
             "archived": false,
             "id": 838513175,
             "language": "Python",
-            "last_commit": "2026-08-27T04:31:58Z",
+            "last_commit": "2026-08-27T05:10:55Z",
             "owner": "rix1337",
             "repo": "Quasarr",
             "stars": 153
@@ -1269,7 +1269,7 @@
             "archived": false,
             "id": 1247241385,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T01:21:29Z",
+            "last_commit": "2026-08-27T05:27:12Z",
             "owner": "furey",
             "repo": "fetcharr",
             "stars": 2
@@ -1401,10 +1401,10 @@
             "archived": false,
             "id": 528313152,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T01:56:10Z",
+            "last_commit": "2026-08-27T07:21:00Z",
             "owner": "gethomepage",
             "repo": "homepage",
-            "stars": 32262
+            "stars": 32267
           }
         },
         {
@@ -1419,7 +1419,7 @@
             "last_commit": "2026-08-21T12:22:27Z",
             "owner": "lissy93",
             "repo": "dashy",
-            "stars": 26299
+            "stars": 26302
           }
         },
         {
@@ -1434,7 +1434,7 @@
             "last_commit": "2026-08-07T14:51:57Z",
             "owner": "bastienwirtz",
             "repo": "homer",
-            "stars": 11573
+            "stars": 11574
           }
         },
         {
@@ -1449,7 +1449,7 @@
             "last_commit": "2026-08-12T17:05:52Z",
             "owner": "linuxserver",
             "repo": "Heimdall",
-            "stars": 9303
+            "stars": 9305
           }
         },
         {
@@ -1464,7 +1464,7 @@
             "last_commit": "2026-06-25T12:30:10Z",
             "owner": "pawelmalak",
             "repo": "flame",
-            "stars": 6521
+            "stars": 6522
           }
         },
         {
@@ -1491,7 +1491,7 @@
             "archived": false,
             "id": 729308541,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T04:19:20Z",
+            "last_commit": "2026-08-27T10:14:05Z",
             "owner": "homarr-labs",
             "repo": "homarr",
             "stars": 4614
@@ -1502,9 +1502,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:33:35.907Z",
-    "original_repository": "Ravencentric/awesome-arr",
-    "original_repository_id": 554665860,
+    "last_updated": "2026-08-27T11:21:40.929Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 554665860,
+      "language": null,
+      "last_commit": "2026-08-16T16:08:47Z",
+      "owner": "Ravencentric",
+      "repo": "awesome-arr",
+      "stars": 4237
+    },
     "original_repository_sha": "89ceba83f7b1540959069d88044c593ac5d394c3",
     "enhanced_repository": "enhansome/enhansome-arr",
     "enhanced_repository_description": null,
