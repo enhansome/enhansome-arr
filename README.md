@@ -25,7 +25,7 @@
 ## Indexer Managers
 
 * [Jackett](https://github.com/Jackett/Jackett) ⭐ 15,970 | 🐛 208 | 🌐 C# | 📅 2026-08-29 - API Support for your favorite torrent trackers. An alternative to Prowlarr.
-* [Prowlarr](https://github.com/prowlarr/prowlarr) ⭐ 7,109 | 🐛 130 | 🌐 C# | 📅 2026-08-28 - An indexer manager/proxy built on the popular arr .net/reactjs base stack to integrate with your various PVR apps. Prowlarr supports management of both Torrent Trackers and Usenet Indexers. It integrates seamlessly with Lidarr, Mylar3, Radarr, and Sonarr offering complete management of your indexers with no per app Indexer setup required.
+* [Prowlarr](https://github.com/prowlarr/prowlarr) ⭐ 7,110 | 🐛 130 | 🌐 C# | 📅 2026-08-28 - An indexer manager/proxy built on the popular arr .net/reactjs base stack to integrate with your various PVR apps. Prowlarr supports management of both Torrent Trackers and Usenet Indexers. It integrates seamlessly with Lidarr, Mylar3, Radarr, and Sonarr offering complete management of your indexers with no per app Indexer setup required.
 
 ## Resources
 
@@ -75,7 +75,7 @@
 * [Managarr](https://github.com/Dark-Alex-17/managarr) ⭐ 761 | 🐛 2 | 🌐 Rust | 📅 2026-07-06 - A TUI and CLI to help you manage all your Servarrs.
 * [Janitorr](https://github.com/Schaka/janitorr) ⭐ 747 | 🐛 2 | 🌐 Kotlin | 📅 2026-08-22 - Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space.
 * [Pulsarr](https://github.com/jamcalli/Pulsarr) ⭐ 738 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-28 - An integration tool that bridges Plex watchlists with Sonarr and Radarr, enabling real-time media monitoring and automated content acquisition all from within the Plex App itself.
-* [Trawl](https://github.com/germondai/trawl) ⭐ 732 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-27 - Another drop-in replacement alternative to FlareSolverr which uses Invisible Playwright to bypass captchas of various types.
+* [Trawl](https://github.com/germondai/trawl) ⭐ 734 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-27 - Another drop-in replacement alternative to FlareSolverr which uses Invisible Playwright to bypass captchas of various types.
 * [Monitorr](https://github.com/Monitorr/Monitorr) ⭐ 678 | 🐛 41 | 🌐 PHP | 📅 2023-05-25 - A self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
 * [Autoscan](https://github.com/Cloudbox/autoscan) ⚠️ Archived - Replaces the default Plex and Emby behaviour for picking up changes on the file system.
 * [Posterr](https://github.com/petersem/posterr) ⭐ 644 | 🐛 74 | 🌐 HTML | 📅 2026-08-15 - A digital poster app for Plex, Sonarr and Radarr.

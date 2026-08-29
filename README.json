@@ -61,7 +61,7 @@
             "open_issues": 130,
             "owner": "Prowlarr",
             "repo": "Prowlarr",
-            "stars": 7109,
+            "stars": 7110,
             "topics": [
               "hacktoberfest",
               "indexer",
@@ -646,7 +646,7 @@
             "id": 132426524,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-29T04:00:13Z",
+            "last_commit": "2026-08-29T04:55:39Z",
             "open_issues": 11,
             "owner": "Unpackerr",
             "repo": "unpackerr",
@@ -1088,7 +1088,7 @@
             "open_issues": 8,
             "owner": "germondai",
             "repo": "trawl",
-            "stars": 732,
+            "stars": 734,
             "topics": [
               "anti-bot",
               "anti-detection",
@@ -2827,7 +2827,7 @@
             "id": 729308541,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T02:31:46Z",
+            "last_commit": "2026-08-29T05:03:38Z",
             "open_issues": 171,
             "owner": "homarr-labs",
             "repo": "homarr",
@@ -2848,7 +2848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:15:27.034Z",
+    "last_updated": "2026-08-29T05:13:45.136Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of *arrs and related stuff.",
@@ -2860,7 +2860,7 @@
       "open_issues": 10,
       "owner": "Ravencentric",
       "repo": "awesome-arr",
-      "stars": 4242,
+      "stars": 4243,
       "topics": [
         "automation",
         "awesome",
