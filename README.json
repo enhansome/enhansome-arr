@@ -15,11 +15,11 @@
             "id": 45195614,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-29T20:08:43Z",
-            "open_issues": 208,
+            "last_commit": "2026-08-31T00:33:35Z",
+            "open_issues": 212,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 15975,
+            "stars": 15978,
             "topics": [
               "api",
               "couchpotato",
@@ -57,11 +57,11 @@
             "id": 305021589,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T23:53:11Z",
-            "open_issues": 128,
+            "last_commit": "2026-08-30T12:59:09Z",
+            "open_issues": 130,
             "owner": "Prowlarr",
             "repo": "Prowlarr",
-            "stars": 7114,
+            "stars": 7117,
             "topics": [
               "hacktoberfest",
               "indexer",
@@ -91,11 +91,11 @@
             "id": 1016941202,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T16:13:34Z",
-            "open_issues": 30,
+            "last_commit": "2026-08-31T00:34:24Z",
+            "open_issues": 22,
             "owner": "Nezreka",
             "repo": "SoulSync",
-            "stars": 2184,
+            "stars": 2183,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -112,11 +112,11 @@
             "id": 1512901,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-26T17:46:04Z",
-            "open_issues": 38,
+            "last_commit": "2026-08-30T18:43:49Z",
+            "open_issues": 40,
             "owner": "Flexget",
             "repo": "Flexget",
-            "stars": 1963,
+            "stars": 1965,
             "topics": [
               "automation",
               "hacktoberfest",
@@ -163,10 +163,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-08-23T16:00:41Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "Casvt",
             "repo": "Kapowarr",
-            "stars": 1055,
+            "stars": 1056,
             "topics": [
               "comic",
               "comic-downloader",
@@ -190,11 +190,11 @@
             "id": 26522552,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-25T13:39:41Z",
+            "last_commit": "2026-08-30T15:48:52Z",
             "open_issues": 1,
             "owner": "SickGear",
             "repo": "SickGear",
-            "stars": 791,
+            "stars": 790,
             "topics": [
               "binary-newsreader",
               "emby",
@@ -231,11 +231,11 @@
             "id": 1062041316,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T21:15:47Z",
+            "last_commit": "2026-08-30T15:49:16Z",
             "open_issues": 29,
             "owner": "Doezer",
             "repo": "Questarr",
-            "stars": 595,
+            "stars": 598,
             "topics": [
               "game",
               "radarr",
@@ -269,7 +269,7 @@
             "open_issues": 84,
             "owner": "FlareSolverr",
             "repo": "FlareSolverr",
-            "stars": 15341,
+            "stars": 15354,
             "topics": [
               "api",
               "chrome",
@@ -301,7 +301,7 @@
             "open_issues": 50,
             "owner": "HaveAGitGat",
             "repo": "Tdarr",
-            "stars": 4286,
+            "stars": 4290,
             "topics": [
               "audio",
               "automation",
@@ -325,11 +325,11 @@
             "id": 88102501,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T13:56:23Z",
-            "open_issues": 36,
+            "last_commit": "2026-08-30T14:46:20Z",
+            "open_issues": 35,
             "owner": "morpheus65535",
             "repo": "bazarr",
-            "stars": 4232,
+            "stars": 4234,
             "topics": [
               "download-subtitles",
               "episodes",
@@ -359,7 +359,7 @@
             "open_issues": 183,
             "owner": "Ombi-app",
             "repo": "Ombi",
-            "stars": 4100,
+            "stars": 4099,
             "topics": [
               "docker",
               "emby",
@@ -387,8 +387,8 @@
             "id": 317119399,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-26T19:41:51Z",
-            "open_issues": 27,
+            "last_commit": "2026-08-30T15:27:57Z",
+            "open_issues": 24,
             "owner": "Kometa-Team",
             "repo": "Kometa",
             "stars": 3412,
@@ -410,7 +410,7 @@
             "id": 535751429,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-29T10:05:48Z",
+            "last_commit": "2026-08-30T09:15:05Z",
             "open_issues": 154,
             "owner": "wizarrrr",
             "repo": "wizarr",
@@ -439,11 +439,11 @@
             "id": 1105674960,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T23:20:03Z",
-            "open_issues": 4,
+            "last_commit": "2026-08-30T22:50:09Z",
+            "open_issues": 3,
             "owner": "connorgallopo",
             "repo": "Tracearr",
-            "stars": 2556,
+            "stars": 2542,
             "topics": [
               "docker",
               "emby",
@@ -484,7 +484,7 @@
             "open_issues": 38,
             "owner": "Cleanuparr",
             "repo": "Cleanuparr",
-            "stars": 2497,
+            "stars": 2499,
             "topics": [
               "cleaner",
               "cleanup",
@@ -523,7 +523,7 @@
             "open_issues": 67,
             "owner": "aleksilassila",
             "repo": "reiverr",
-            "stars": 2343,
+            "stars": 2341,
             "topics": [
               "jellyfin",
               "movies",
@@ -547,11 +547,11 @@
             "id": 447140444,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T23:26:57Z",
+            "last_commit": "2026-08-30T13:52:49Z",
             "open_issues": 1,
             "owner": "Maintainerr",
             "repo": "Maintainerr",
-            "stars": 2236,
+            "stars": 2238,
             "topics": [
               "docker",
               "jellyfin",
@@ -581,11 +581,11 @@
             "id": 336108922,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-30T01:11:51Z",
-            "open_issues": 10,
+            "last_commit": "2026-08-30T23:51:31Z",
+            "open_issues": 11,
             "owner": "recyclarr",
             "repo": "recyclarr",
-            "stars": 2086,
+            "stars": 2087,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -606,7 +606,7 @@
             "open_issues": 9,
             "owner": "ThePhaseless",
             "repo": "Byparr",
-            "stars": 1870,
+            "stars": 1871,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -646,11 +646,11 @@
             "id": 132426524,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-29T07:32:22Z",
-            "open_issues": 9,
+            "last_commit": "2026-08-31T00:06:25Z",
+            "open_issues": 7,
             "owner": "Unpackerr",
             "repo": "unpackerr",
-            "stars": 1462,
+            "stars": 1461,
             "topics": [
               "deluge",
               "deluge-web",
@@ -688,7 +688,7 @@
             "open_issues": 71,
             "owner": "RandomNinjaAtk",
             "repo": "arr-scripts",
-            "stars": 1458,
+            "stars": 1459,
             "topics": [
               "bash-script",
               "emby",
@@ -753,11 +753,11 @@
             "id": 872358547,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-24T10:36:08Z",
-            "open_issues": 14,
+            "last_commit": "2026-08-30T15:56:56Z",
+            "open_issues": 9,
             "owner": "giuseppe99barchetta",
             "repo": "SuggestArr",
-            "stars": 1295,
+            "stars": 1298,
             "topics": [
               "automation",
               "docker",
@@ -835,7 +835,7 @@
             "open_issues": 13,
             "owner": "mrusse",
             "repo": "soularr",
-            "stars": 963,
+            "stars": 964,
             "topics": [
               "lidarr",
               "slskd",
@@ -886,7 +886,7 @@
             "open_issues": 22,
             "owner": "ManiMatter",
             "repo": "decluttarr",
-            "stars": 870,
+            "stars": 868,
             "topics": [
               "amd64",
               "arm64",
@@ -925,7 +925,7 @@
             "open_issues": 5,
             "owner": "lingarr-translate",
             "repo": "lingarr",
-            "stars": 861,
+            "stars": 860,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -946,7 +946,7 @@
             "open_issues": 5,
             "owner": "onedr0p",
             "repo": "exportarr",
-            "stars": 821,
+            "stars": 819,
             "topics": [
               "bazarr",
               "lidarr",
@@ -977,7 +977,7 @@
             "open_issues": 61,
             "owner": "SimpleHomelab",
             "repo": "Deployrr",
-            "stars": 801,
+            "stars": 804,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -998,7 +998,7 @@
             "open_issues": 2,
             "owner": "Dark-Alex-17",
             "repo": "managarr",
-            "stars": 761,
+            "stars": 762,
             "topics": [
               "cli",
               "gui",
@@ -1009,27 +1009,6 @@
               "terminal-user-interface",
               "tui"
             ]
-          },
-          "first_seen": "2026-08-28T06:57:48.928Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Janitorr",
-          "description": "Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space",
-            "homepage": null,
-            "id": 743245017,
-            "language": "Kotlin",
-            "license": "GPL-3.0",
-            "last_commit": "2026-08-22T17:26:06Z",
-            "open_issues": 2,
-            "owner": "Schaka",
-            "repo": "janitorr",
-            "stars": 747,
-            "topics": []
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
         },
@@ -1049,7 +1028,7 @@
             "open_issues": 8,
             "owner": "germondai",
             "repo": "trawl",
-            "stars": 742,
+            "stars": 747,
             "topics": [
               "anti-bot",
               "anti-detection",
@@ -1077,6 +1056,27 @@
         },
         {
           "node_type": "item",
+          "title": "Janitorr",
+          "description": "Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space",
+            "homepage": null,
+            "id": 743245017,
+            "language": "Kotlin",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-22T17:26:06Z",
+            "open_issues": 2,
+            "owner": "Schaka",
+            "repo": "janitorr",
+            "stars": 746,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T06:57:48.928Z"
+        },
+        {
+          "node_type": "item",
           "title": "Pulsarr",
           "description": "An integration tool that bridges Plex watchlists with Sonarr and Radarr, enabling real-time media monitoring and automated content acquisition all from within the Plex App itself.",
           "children": [],
@@ -1087,7 +1087,7 @@
             "id": 914233315,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-28T21:58:09Z",
+            "last_commit": "2026-08-30T22:52:22Z",
             "open_issues": 9,
             "owner": "jamcalli",
             "repo": "Pulsarr",
@@ -1189,7 +1189,7 @@
             "open_issues": 74,
             "owner": "petersem",
             "repo": "posterr",
-            "stars": 645,
+            "stars": 646,
             "topics": [
               "pictures",
               "plex",
@@ -1238,7 +1238,7 @@
             "open_issues": 11,
             "owner": "aetaric",
             "repo": "checkrr",
-            "stars": 575,
+            "stars": 576,
             "topics": [
               "audio",
               "audio-processing",
@@ -1264,11 +1264,11 @@
             "id": 849573960,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-30T00:52:25Z",
+            "last_commit": "2026-08-30T06:35:19Z",
             "open_issues": 9,
             "owner": "dan-online",
             "repo": "autopulse",
-            "stars": 539,
+            "stars": 540,
             "topics": [
               "autoscan",
               "emby",
@@ -1292,7 +1292,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2025-09-19T08:41:45Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "screeny05",
             "repo": "letterboxd-list-radarr",
             "stars": 519,
@@ -1318,7 +1318,7 @@
             "open_issues": 15,
             "owner": "aunefyren",
             "repo": "wrapperr",
-            "stars": 454,
+            "stars": 456,
             "topics": [
               "api",
               "docker",
@@ -1348,8 +1348,8 @@
             "id": 768813127,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T03:46:32Z",
-            "open_issues": 6,
+            "last_commit": "2026-08-30T02:11:58Z",
+            "open_issues": 5,
             "owner": "nandyalu",
             "repo": "trailarr",
             "stars": 451,
@@ -1419,6 +1419,32 @@
         },
         {
           "node_type": "item",
+          "title": "Buildarr",
+          "description": "A solution to automating deployment and configuration of your *arr stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Constructs and configures Arr PVR stacks",
+            "homepage": "https://buildarr.github.io",
+            "id": 568263488,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2024-05-04T12:01:01Z",
+            "open_issues": 42,
+            "owner": "buildarr",
+            "repo": "buildarr",
+            "stars": 373,
+            "topics": [
+              "buildarr",
+              "prowlarr",
+              "radarr",
+              "sonarr"
+            ]
+          },
+          "first_seen": "2026-08-28T06:57:48.928Z"
+        },
+        {
+          "node_type": "item",
           "title": "MediathekArr",
           "description": "Integrate ARD&ZDF Mediathek in Prowlarr, Sonarr, and Radarr (German free public TV stations).",
           "children": [],
@@ -1435,32 +1461,6 @@
             "repo": "MediathekArr",
             "stars": 372,
             "topics": []
-          },
-          "first_seen": "2026-08-28T06:57:48.928Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Buildarr",
-          "description": "A solution to automating deployment and configuration of your *arr stack.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Constructs and configures Arr PVR stacks",
-            "homepage": "https://buildarr.github.io",
-            "id": 568263488,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2024-05-04T12:01:01Z",
-            "open_issues": 42,
-            "owner": "buildarr",
-            "repo": "buildarr",
-            "stars": 371,
-            "topics": [
-              "buildarr",
-              "prowlarr",
-              "radarr",
-              "sonarr"
-            ]
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
         },
@@ -1501,7 +1501,7 @@
             "open_issues": 12,
             "owner": "Flemmarr",
             "repo": "Flemmarr",
-            "stars": 345,
+            "stars": 346,
             "topics": [
               "lidarr",
               "prowlarr",
@@ -1643,7 +1643,7 @@
             "open_issues": 35,
             "owner": "se1exin",
             "repo": "Cleanarr",
-            "stars": 275,
+            "stars": 276,
             "topics": [
               "plex"
             ]
@@ -1732,7 +1732,7 @@
             "open_issues": 0,
             "owner": "jeremehancock",
             "repo": "Posteria",
-            "stars": 209,
+            "stars": 210,
             "topics": [
               "metadata",
               "movie",
@@ -1781,7 +1781,7 @@
             "id": 546386457,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-26T21:29:45Z",
+            "last_commit": "2026-08-30T13:49:42Z",
             "open_issues": 21,
             "owner": "Notifiarr",
             "repo": "toolbarr",
@@ -1825,31 +1825,6 @@
         },
         {
           "node_type": "item",
-          "title": "Gclone",
-          "description": "A rclone mod with auto SA rotation.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "A rclone mod with auto SA rotation",
-            "homepage": null,
-            "id": 430241137,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2023-09-16T19:36:52Z",
-            "open_issues": 1,
-            "owner": "l3v11",
-            "repo": "gclone",
-            "stars": 156,
-            "topics": [
-              "gclone",
-              "google-drive",
-              "rclone"
-            ]
-          },
-          "first_seen": "2026-08-28T06:57:48.928Z"
-        },
-        {
-          "node_type": "item",
           "title": "Muxarr",
           "description": "Optimize and clean up your media library by stripping redundant audio tracks and subtitles without re-encoding. Features *arr integration for original language detection and automatic processing, with an easy-to-use web interface to preview changes.",
           "children": [],
@@ -1864,7 +1839,7 @@
             "open_issues": 15,
             "owner": "KirovAir",
             "repo": "muxarr",
-            "stars": 156,
+            "stars": 157,
             "topics": [
               "arr",
               "audio",
@@ -1892,6 +1867,31 @@
         },
         {
           "node_type": "item",
+          "title": "Gclone",
+          "description": "A rclone mod with auto SA rotation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "A rclone mod with auto SA rotation",
+            "homepage": null,
+            "id": 430241137,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2023-09-16T19:36:52Z",
+            "open_issues": 1,
+            "owner": "l3v11",
+            "repo": "gclone",
+            "stars": 156,
+            "topics": [
+              "gclone",
+              "google-drive",
+              "rclone"
+            ]
+          },
+          "first_seen": "2026-08-28T06:57:48.928Z"
+        },
+        {
+          "node_type": "item",
           "title": "Quasarr",
           "description": "Connects JDownloader with Radarr, Sonarr, Lidarr and LazyLibrarian. It also decrypts links protected by CAPTCHAs.",
           "children": [],
@@ -1903,10 +1903,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-27T05:10:55Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "rix1337",
             "repo": "Quasarr",
-            "stars": 154,
+            "stars": 153,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -1945,7 +1945,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-04-22T12:53:20Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "Nikorag",
             "repo": "iplayarr",
             "stars": 136,
@@ -2091,7 +2091,7 @@
             "open_issues": 13,
             "owner": "Gyarbij",
             "repo": "Plexist",
-            "stars": 101,
+            "stars": 103,
             "topics": [
               "apple-music",
               "apple-music-playlist",
@@ -2150,7 +2150,7 @@
             "open_issues": 3,
             "owner": "drkno",
             "repo": "transcoderr",
-            "stars": 66,
+            "stars": 67,
             "topics": [
               "hacktoberfest"
             ]
@@ -2513,7 +2513,7 @@
             "open_issues": 15,
             "owner": "shayaantx",
             "repo": "botdarr",
-            "stars": 203,
+            "stars": 204,
             "topics": [
               "access-radarr",
               "api",
@@ -2627,11 +2627,11 @@
             "id": 528313152,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T00:57:16Z",
-            "open_issues": 3,
+            "last_commit": "2026-08-31T00:58:24Z",
+            "open_issues": 1,
             "owner": "gethomepage",
             "repo": "homepage",
-            "stars": 32291,
+            "stars": 32312,
             "topics": [
               "docker",
               "homepage",
@@ -2656,11 +2656,11 @@
             "id": 343078060,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-08-29T18:28:25Z",
-            "open_issues": 33,
+            "last_commit": "2026-08-30T09:48:22Z",
+            "open_issues": 32,
             "owner": "lissy93",
             "repo": "dashy",
-            "stars": 26325,
+            "stars": 26331,
             "topics": [
               "awesome",
               "dashboard",
@@ -2691,11 +2691,11 @@
             "id": 137308006,
             "language": "Vue",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T18:36:40Z",
-            "open_issues": 167,
+            "last_commit": "2026-08-30T16:18:28Z",
+            "open_issues": 157,
             "owner": "bastienwirtz",
             "repo": "homer",
-            "stars": 11585,
+            "stars": 11587,
             "topics": [
               "dashboard",
               "hacktoberfest",
@@ -2723,7 +2723,7 @@
             "open_issues": 4,
             "owner": "linuxserver",
             "repo": "Heimdall",
-            "stars": 9310,
+            "stars": 9311,
             "topics": [
               "application-dashboard",
               "bookmark",
@@ -2765,7 +2765,7 @@
             "open_issues": 175,
             "owner": "pawelmalak",
             "repo": "flame",
-            "stars": 6527,
+            "stars": 6530,
             "topics": [
               "homepage",
               "self-hosted",
@@ -2827,11 +2827,11 @@
             "id": 729308541,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T07:14:53Z",
+            "last_commit": "2026-08-30T21:43:29Z",
             "open_issues": 170,
             "owner": "homarr-labs",
             "repo": "homarr",
-            "stars": 4625,
+            "stars": 4629,
             "topics": [
               "dashboard",
               "docker",
@@ -2848,7 +2848,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:19:59.940Z",
+    "last_updated": "2026-08-31T01:24:20.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of *arrs and related stuff.",
@@ -2860,7 +2860,7 @@
       "open_issues": 10,
       "owner": "Ravencentric",
       "repo": "awesome-arr",
-      "stars": 4252,
+      "stars": 4255,
       "topics": [
         "automation",
         "awesome",
