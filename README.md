@@ -24,8 +24,8 @@
 
 ## Indexer Managers
 
-* [Jackett](https://github.com/Jackett/Jackett) ⭐ 16,051 | 🐛 215 | 🌐 C# | 📅 2026-09-19 - API Support for your favorite torrent trackers. An alternative to Prowlarr.
-* [Prowlarr](https://github.com/prowlarr/prowlarr) ⭐ 7,237 | 🐛 138 | 🌐 C# | 📅 2026-09-16 - An indexer manager/proxy built on the popular arr .net/reactjs base stack to integrate with your various PVR apps. Prowlarr supports management of both Torrent Trackers and Usenet Indexers. It integrates seamlessly with Lidarr, Mylar3, Radarr, and Sonarr offering complete management of your indexers with no per app Indexer setup required.
+* [Jackett](https://github.com/Jackett/Jackett) ⭐ 16,056 | 🐛 213 | 🌐 C# | 📅 2026-09-20 - API Support for your favorite torrent trackers. An alternative to Prowlarr.
+* [Prowlarr](https://github.com/prowlarr/prowlarr) ⭐ 7,241 | 🐛 138 | 🌐 C# | 📅 2026-09-16 - An indexer manager/proxy built on the popular arr .net/reactjs base stack to integrate with your various PVR apps. Prowlarr supports management of both Torrent Trackers and Usenet Indexers. It integrates seamlessly with Lidarr, Mylar3, Radarr, and Sonarr offering complete management of your indexers with no per app Indexer setup required.
 
 ## Resources
 
@@ -38,50 +38,50 @@
 
 > These serve as alternatives to the \*arr ecosystem, offering similar automation and media management capabilities.
 
-* [SoulSync](https://github.com/Nezreka/SoulSync) ⭐ 2,225 | 🐛 28 | 🌐 Python | 📅 2026-09-19 - Intelligent Music Discovery & Automation Platform. Automates downloads, curates playlists, monitors artists, and organizes your collection.
-* [Flexget](https://github.com/Flexget/Flexget) ⭐ 1,968 | 🐛 37 | 🌐 Python | 📅 2026-09-19 - A multipurpose automation tool for all of your media. Support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
-* [Mylar3](https://github.com/mylar3/mylar3) ⭐ 1,457 | 🐛 25 | 🌐 Python | 📅 2026-03-25 - The python3 version of the automated Comic Book downloader (cbr/cbz) for use with various download clients.
-* [Kapowarr](https://github.com/Casvt/Kapowarr) ⭐ 1,072 | 🐛 31 | 🌐 Python | 📅 2026-09-14 - A software to build and manage a comic book library.
+* [SoulSync](https://github.com/Nezreka/SoulSync) ⭐ 2,228 | 🐛 28 | 🌐 Python | 📅 2026-09-21 - Intelligent Music Discovery & Automation Platform. Automates downloads, curates playlists, monitors artists, and organizes your collection.
+* [Flexget](https://github.com/Flexget/Flexget) ⭐ 1,969 | 🐛 37 | 🌐 Python | 📅 2026-09-20 - A multipurpose automation tool for all of your media. Support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
+* [Mylar3](https://github.com/mylar3/mylar3) ⭐ 1,459 | 🐛 24 | 🌐 Python | 📅 2026-03-25 - The python3 version of the automated Comic Book downloader (cbr/cbz) for use with various download clients.
+* [Kapowarr](https://github.com/Casvt/Kapowarr) ⭐ 1,076 | 🐛 31 | 🌐 Python | 📅 2026-09-14 - A software to build and manage a comic book library.
 * [SickGear](https://github.com/SickGear/SickGear) ⭐ 793 | 🐛 1 | 🌐 Python | 📅 2026-09-10 - The most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
-* [Questarr](https://github.com/Doezer/Questarr) ⭐ 655 | 🐛 30 | 🌐 TypeScript | 📅 2026-09-18 - Track and organize your video game collection with automated discovery and download management.
+* [Questarr](https://github.com/Doezer/Questarr) ⭐ 656 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-20 - Track and organize your video game collection with automated discovery and download management.
 * [Medusa](https://pymedusa.com/) - An automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic: automatic torrent/nzb searching, downloading, and processing at the qualities you want.
 
 ## Complimenting Apps
 
-* [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) ⭐ 15,644 | 🐛 88 | 🌐 Python | 📅 2026-09-12 - Proxy server to bypass Cloudflare protection.
+* [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) ⭐ 15,646 | 🐛 88 | 🌐 Python | 📅 2026-09-12 - Proxy server to bypass Cloudflare protection.
 * [Tdarr](https://github.com/HaveAGitGat/Tdarr) ⭐ 4,328 | 🐛 45 | 🌐 Makefile | 📅 2026-09-19 - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking.
-* [Bazarr](https://github.com/morpheus65535/bazarr) ⭐ 4,282 | 🐛 33 | 🌐 Python | 📅 2026-09-19 - A companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.
-* [Ombi](https://github.com/Ombi-app/Ombi) ⭐ 4,101 | 🐛 186 | 🌐 C# | 📅 2026-09-04 - A self-hosted web application that automatically gives your shared Plex or Emby users the ability to request content by themselves! Ombi can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end experience for your users.
-* [Kometa](https://github.com/Kometa-Team/Kometa) ⭐ 3,416 | 🐛 22 | 🌐 Python | 📅 2026-09-20 - An open source Python 3 project that has been designed to ease the creation and maintenance of metadata, collections, and playlists within a Plex Media Server.
-* [Wizarr](https://github.com/Wizarrrr/wizarr) ⭐ 3,194 | 🐛 144 | 🌐 Python | 📅 2026-09-19 - An automatic user invitation system for Plex, Jellyfin, Emby, AudiobookShelf, Komga, Kavita and Romm.
-* [Tracearr](https://github.com/connorgallopo/Tracearr) ⭐ 2,637 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-19 - Real-time monitoring platform for Plex, Jellyfin, and Emby. Track streams, playback analytics, and account sharing detection in one place.
-* [Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) ⭐ 2,554 | 🐛 28 | 🌐 C# | 📅 2026-09-19 - An advanced cleaner for dead or malicious torrents.
+* [Bazarr](https://github.com/morpheus65535/bazarr) ⭐ 4,283 | 🐛 37 | 🌐 Python | 📅 2026-09-20 - A companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.
+* [Ombi](https://github.com/Ombi-app/Ombi) ⭐ 4,104 | 🐛 188 | 🌐 C# | 📅 2026-09-04 - A self-hosted web application that automatically gives your shared Plex or Emby users the ability to request content by themselves! Ombi can be linked to multiple TV Show and Movie DVR tools to create a seamless end-to-end experience for your users.
+* [Kometa](https://github.com/Kometa-Team/Kometa) ⭐ 3,415 | 🐛 22 | 🌐 Python | 📅 2026-09-20 - An open source Python 3 project that has been designed to ease the creation and maintenance of metadata, collections, and playlists within a Plex Media Server.
+* [Wizarr](https://github.com/Wizarrrr/wizarr) ⭐ 3,196 | 🐛 144 | 🌐 Python | 📅 2026-09-20 - An automatic user invitation system for Plex, Jellyfin, Emby, AudiobookShelf, Komga, Kavita and Romm.
+* [Tracearr](https://github.com/connorgallopo/Tracearr) ⭐ 2,644 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-20 - Real-time monitoring platform for Plex, Jellyfin, and Emby. Track streams, playback analytics, and account sharing detection in one place.
+* [Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) ⭐ 2,562 | 🐛 28 | 🌐 C# | 📅 2026-09-19 - An advanced cleaner for dead or malicious torrents.
 * [Reiverr](https://github.com/aleksilassila/reiverr) ⭐ 2,344 | 🐛 67 | 🌐 TypeScript | 📅 2026-02-19 - A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr.
-* [Maintainerr](https://github.com/Maintainerr/Maintainerr) ⭐ 2,280 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex and Jellyfin.
-* [Recyclarr](https://github.com/recyclarr/recyclarr) ⭐ 2,110 | 🐛 19 | 🌐 C# | 📅 2026-09-19 - Automatically sync TRaSH guides to your Sonarr and Radarr instances.
-* [Byparr](https://github.com/ThePhaseless/Byparr/) ⭐ 1,940 | 🐛 12 | 🌐 Python | 📅 2026-09-18 - An alternative to FlareSolverr as a drop-in replacement, built with seleniumbase and FastAPI.
+* [Maintainerr](https://github.com/Maintainerr/Maintainerr) ⭐ 2,285 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-18 - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex and Jellyfin.
+* [Recyclarr](https://github.com/recyclarr/recyclarr) ⭐ 2,113 | 🐛 20 | 🌐 C# | 📅 2026-09-20 - Automatically sync TRaSH guides to your Sonarr and Radarr instances.
+* [Byparr](https://github.com/ThePhaseless/Byparr/) ⭐ 1,942 | 🐛 12 | 🌐 Python | 📅 2026-09-18 - An alternative to FlareSolverr as a drop-in replacement, built with seleniumbase and FastAPI.
 * [Radarr-striptracks](https://github.com/linuxserver/docker-mods/tree/radarr-striptracks) ⭐ 1,542 | 🐛 8 | 📅 2026-08-31 - A Docker Mod for the LinuxServer.io Radarr/Sonarr v3 Docker container that adds a script to automatically strip out unwanted audio and subtitle streams, keeping only the desired languages.
-* [Unpackerr](https://github.com/Unpackerr/unpackerr) ⭐ 1,480 | 🐛 10 | 🌐 Go | 📅 2026-09-20 - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import.
+* [Unpackerr](https://github.com/Unpackerr/unpackerr) ⭐ 1,481 | 🐛 8 | 🌐 Go | 📅 2026-09-21 - Extracts downloads for Radarr, Sonarr, Lidarr, Readarr, and/or a Watch folder - Deletes extracted files after import.
 * [Arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) ⭐ 1,468 | 🐛 71 | 🌐 Shell | 📅 2026-01-16 - Extended Container Scripts. Designed to be easily implemented/added to Linuxserver.io containers.
 * [Midarr](https://github.com/midarrlabs/midarr-server) ⭐ 1,408 | 🐛 6 | 🌐 Elixir | 📅 2026-03-03 - The minimal lightweight media server.
-* [SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) ⭐ 1,316 | 🐛 10 | 🌐 Python | 📅 2026-09-16 - Automatic media content recommendations and download requests based on user activity on the media server.
+* [SuggestArr](https://github.com/giuseppe99barchetta/SuggestArr) ⭐ 1,317 | 🐛 10 | 🌐 Python | 📅 2026-09-16 - Automatic media content recommendations and download requests based on user activity on the media server.
 * [Ezarr](https://github.com/Luctia/ezarr) ⭐ 1,074 | 🐛 15 | 🌐 Python | 📅 2026-08-11 - Aims to make it as easy as possible to setup an entire Servarr/Jackett/BitTorrent/PleX/Jellyfin mediacenter stack using Docker.
 * [Soularr](https://github.com/mrusse/soularr) ⭐ 977 | 🐛 14 | 🌐 Python | 📅 2026-07-31 - A Python script that connects Lidarr with Soulseek.
 * [Posterizarr](https://github.com/fscorrupt/Posterizarr) ⭐ 927 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-18 - Automated poster maker for Plex/Jellyfin/Emby.
-* [Decluttarr](https://github.com/ManiMatter/decluttarr) ⭐ 880 | 🐛 24 | 🌐 Python | 📅 2026-07-28 - Watches radarr, sonarr, lidarr and whisparr download queues and removes downloads if they become stalled or no longer needed.
+* [Decluttarr](https://github.com/ManiMatter/decluttarr) ⭐ 880 | 🐛 23 | 🌐 Python | 📅 2026-07-28 - Watches radarr, sonarr, lidarr and whisparr download queues and removes downloads if they become stalled or no longer needed.
 * [Lingarr](https://github.com/lingarr-translate/lingarr) ⭐ 878 | 🐛 16 | 🌐 C# | 📅 2026-09-05 - Integrates with Radarr and Sonarr and automates subtitle translation using various locally hosted or SaaS translation services.
-* [Trawl](https://github.com/germondai/trawl) ⭐ 824 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-16 - Another drop-in replacement alternative to FlareSolverr which uses Invisible Playwright to bypass captchas of various types.
+* [Trawl](https://github.com/germondai/trawl) ⭐ 827 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-16 - Another drop-in replacement alternative to FlareSolverr which uses Invisible Playwright to bypass captchas of various types.
 * [Exportarr](https://github.com/onedr0p/exportarr) ⭐ 821 | 🐛 5 | 🌐 Go | 📅 2026-06-11 - This will export metrics gathered from Sonarr, Radarr, Lidarr, or Prowlarr.
-* [Deployrr](https://github.com/SimpleHomelab/Deployrr) ⭐ 817 | 🐛 61 | 🌐 Shell | 📅 2026-08-28 - Automates Homelab setup using Docker and Docker Compose.
+* [Deployrr](https://github.com/SimpleHomelab/Deployrr) ⭐ 818 | 🐛 61 | 🌐 Shell | 📅 2026-08-28 - Automates Homelab setup using Docker and Docker Compose.
 * [Managarr](https://github.com/Dark-Alex-17/managarr) ⭐ 772 | 🐛 2 | 🌐 Rust | 📅 2026-09-19 - A TUI and CLI to help you manage all your Servarrs.
-* [Janitorr](https://github.com/Schaka/janitorr) ⭐ 752 | 🐛 2 | 🌐 Kotlin | 📅 2026-09-19 - Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space.
-* [Pulsarr](https://github.com/jamcalli/Pulsarr) ⭐ 744 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-19 - An integration tool that bridges Plex watchlists with Sonarr and Radarr, enabling real-time media monitoring and automated content acquisition all from within the Plex App itself.
+* [Janitorr](https://github.com/Schaka/janitorr) ⭐ 753 | 🐛 2 | 🌐 Kotlin | 📅 2026-09-19 - Cleans your Radarr, Sonarr, Jellyseerr and Jellyfin before you run out of space.
+* [Pulsarr](https://github.com/jamcalli/Pulsarr) ⭐ 746 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-19 - An integration tool that bridges Plex watchlists with Sonarr and Radarr, enabling real-time media monitoring and automated content acquisition all from within the Plex App itself.
 * [Monitorr](https://github.com/Monitorr/Monitorr) ⭐ 677 | 🐛 40 | 🌐 PHP | 📅 2023-05-25 - A self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications.
 * [Autoscan](https://github.com/Cloudbox/autoscan) ⚠️ Archived - Replaces the default Plex and Emby behaviour for picking up changes on the file system.
 * [Posterr](https://github.com/petersem/posterr) ⭐ 648 | 🐛 75 | 🌐 HTML | 📅 2026-09-05 - A digital poster app for Plex, Sonarr and Radarr.
 * [Traktarr](https://github.com/l3uddz/traktarr) ⭐ 623 | 🐛 51 | 🌐 Python | 📅 2023-03-14 - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 * [Checkrr](https://github.com/aetaric/checkrr) ⭐ 579 | 🐛 11 | 🌐 Go | 📅 2026-07-11 - Scans your library files for corrupt media and replace the files via sonarr and radarr.
-* [Autopulse](https://github.com/dan-online/autopulse) ⭐ 549 | 🐛 9 | 🌐 Rust | 📅 2026-09-15 - An automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr.
+* [Autopulse](https://github.com/dan-online/autopulse) ⭐ 549 | 🐛 9 | 🌐 Rust | 📅 2026-09-20 - An automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr.
 * [Letterboxd List Radarr](https://github.com/screeny05/letterboxd-list-radarr) ⭐ 521 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-14 - Connect Radarr to letterboxd.com lists.
 * [Trailarr](https://github.com/nandyalu/trailarr) ⭐ 463 | 🐛 4 | 🌐 Python | 📅 2026-09-19 - A Docker application to download and manage trailers for your Radarr, and Sonarr libraries.
 * [Wrapperr](https://github.com/aunefyren/wrapperr) ⭐ 456 | 🐛 15 | 🌐 JavaScript | 📅 2026-07-29 - Website based application and API that collects Plex statistics using Tautulli and displays it in a nice format. Similar to the Spotify Wrapped concept.
@@ -93,7 +93,7 @@
 * [Flemmarr](https://github.com/Flemmarr/Flemmarr) ⭐ 346 | 🐛 12 | 🌐 Python | 📅 2024-01-26 - Easy, automatic configuration for your -arr apps.
 * [Deleterr](https://github.com/rfsbraz/deleterr) ⭐ 338 | 🐛 33 | 🌐 Python | 📅 2026-09-01 - Automates deleting inactive and stale media from Plex/Sonarr/Radarr.
 * [UmlautAdaptarr](https://github.com/PCJones/UmlautAdaptarr) ⭐ 305 | 🐛 33 | 🌐 C# | 📅 2026-08-10 - A tool to work around Sonarr, Radarr and Lidarr problems with foreign languages (primarily German at the moment).
-* [Digarr](https://github.com/iuliandita/digarr) ⭐ 290 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-19 - AI-powered music discovery that builds a taste profile from your listening sources and finds new artists. Optionally sends approved artists straight to Lidarr.
+* [Digarr](https://github.com/iuliandita/digarr) ⭐ 292 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-19 - AI-powered music discovery that builds a taste profile from your listening sources and finds new artists. Optionally sends approved artists straight to Lidarr.
 * [Prefetcharr](https://github.com/p-hueber/prefetcharr) ⭐ 280 | 🐛 0 | 🌐 Rust | 📅 2026-09-06 - Let Sonarr fetch the next season of a show you are watching on Jellyfin/Emby/Plex.
 * [Cleanarr (se1exin)](https://github.com/se1exin/Cleanarr) ⭐ 274 | 🐛 35 | 🌐 TypeScript | 📅 2024-07-23 - A simple UI to help find and delete duplicate and sample files from your Plex server.
 * [Listrr](https://github.com/TheUltimateC0der/Listrr) ⭐ 247 | 🐛 11 | 🌐 C# | 📅 2022-12-08 - Creates lists for shows and movies based on your filters. The created lists get updated every 24 hours based on your filters, so Listrr will add all new items that match your filters, and will also remove all items that do not match your filter configuration anymore. Supports Sonarr, Radarr, Traktarr and Python-PlexLibrary.
@@ -143,19 +143,19 @@
 
 > These are dashboards for your \*arrs and various other services on your server.
 
-* [Homepage](https://github.com/gethomepage/homepage) ⭐ 32,749 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-20 - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integration.
-* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,517 | 🐛 27 | 🌐 Vue | 📅 2026-09-18 - A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more.
-* [Homer](https://github.com/bastienwirtz/homer) ⭐ 11,608 | 🐛 169 | 🌐 Vue | 📅 2026-09-04 - A very simple static homepage for your server with offline health check.
-* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,328 | 🐛 4 | 🌐 PHP | 📅 2026-09-09 - An Application dashboard and launcher.
-* [Flame](https://github.com/pawelmalak/flame) ⭐ 6,548 | 🐛 175 | 🌐 TypeScript | 📅 2026-06-25 - A self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
-* [Organizr](https://github.com/causefx/Organizr) ⭐ 5,814 | 🐛 31 | 🌐 PHP | 📅 2026-05-19 - HTPC/Homelab Services Organizer - Written in PHP.
-* [Homarr](https://github.com/homarr-labs/homarr) ⭐ 4,751 | 🐛 193 | 🌐 TypeScript | 📅 2026-09-19 - A simple, yet powerful dashboard for your server. A sleek, modern dashboard that puts all of your apps and services at your fingertips.
+* [Homepage](https://github.com/gethomepage/homepage) ⭐ 32,776 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-21 - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integration.
+* [Dashy](https://github.com/Lissy93/dashy) ⭐ 26,531 | 🐛 27 | 🌐 Vue | 📅 2026-09-20 - A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more.
+* [Homer](https://github.com/bastienwirtz/homer) ⭐ 11,611 | 🐛 169 | 🌐 Vue | 📅 2026-09-20 - A very simple static homepage for your server with offline health check.
+* [Heimdall](https://github.com/linuxserver/Heimdall) ⭐ 9,331 | 🐛 4 | 🌐 PHP | 📅 2026-09-09 - An Application dashboard and launcher.
+* [Flame](https://github.com/pawelmalak/flame) ⭐ 6,550 | 🐛 175 | 🌐 TypeScript | 📅 2026-06-25 - A self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
+* [Organizr](https://github.com/causefx/Organizr) ⭐ 5,816 | 🐛 32 | 🌐 PHP | 📅 2026-05-19 - HTPC/Homelab Services Organizer - Written in PHP.
+* [Homarr](https://github.com/homarr-labs/homarr) ⭐ 4,761 | 🐛 190 | 🌐 TypeScript | 📅 2026-09-21 - A simple, yet powerful dashboard for your server. A sleek, modern dashboard that puts all of your apps and services at your fingertips.
 
 ## Mobile Apps
 
-* [Ruddarr](https://github.com/ruddarr/app) ⭐ 661 | 🐛 21 | 🌐 Swift | 📅 2026-09-01 - A beautifully designed, open source, iOS/iPadOS companion app for Radarr and Sonarr instances written in SwiftUI.
+* [Ruddarr](https://github.com/ruddarr/app) ⭐ 664 | 🐛 21 | 🌐 Swift | 📅 2026-09-01 - A beautifully designed, open source, iOS/iPadOS companion app for Radarr and Sonarr instances written in SwiftUI.
 * [nzb360](https://nzb360.com/) - Usenet/Torrent manager for Android. Supports SABnzbd, NZBget, Deluge, Transmission, uTorrent, qBittorrent, rTorrent/ruTorrent, Sonarr, Sick Beard, Radarr, Lidarr, Bazarr, Couchpotato, Headphones, NEWZnab, Jackett, NZBHydra2 and Prowlarr.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
