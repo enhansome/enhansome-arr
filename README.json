@@ -15,11 +15,11 @@
             "id": 45195614,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-01T18:35:27Z",
-            "open_issues": 231,
+            "last_commit": "2026-10-03T01:28:21Z",
+            "open_issues": 228,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 16122,
+            "stars": 16126,
             "topics": [
               "api",
               "couchpotato",
@@ -58,10 +58,10 @@
             "language": "C#",
             "license": "GPL-3.0",
             "last_commit": "2026-09-16T18:13:53Z",
-            "open_issues": 145,
+            "open_issues": 146,
             "owner": "Prowlarr",
             "repo": "Prowlarr",
-            "stars": 7310,
+            "stars": 7312,
             "topics": [
               "hacktoberfest",
               "indexer",
@@ -91,11 +91,11 @@
             "id": 1016941202,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T01:33:44Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-03T01:13:47Z",
+            "open_issues": 33,
             "owner": "Nezreka",
             "repo": "SoulSync",
-            "stars": 2251,
+            "stars": 2252,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -112,11 +112,11 @@
             "id": 1512901,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T00:53:07Z",
+            "last_commit": "2026-10-02T02:36:07Z",
             "open_issues": 39,
             "owner": "Flexget",
             "repo": "Flexget",
-            "stars": 1980,
+            "stars": 1979,
             "topics": [
               "automation",
               "hacktoberfest",
@@ -145,7 +145,7 @@
             "open_issues": 24,
             "owner": "mylar3",
             "repo": "mylar3",
-            "stars": 1463,
+            "stars": 1462,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -190,11 +190,11 @@
             "id": 26522552,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T15:08:44Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-02T13:37:13Z",
+            "open_issues": 1,
             "owner": "SickGear",
             "repo": "SickGear",
-            "stars": 796,
+            "stars": 795,
             "topics": [
               "binary-newsreader",
               "emby",
@@ -235,7 +235,7 @@
             "open_issues": 20,
             "owner": "Doezer",
             "repo": "Questarr",
-            "stars": 673,
+            "stars": 674,
             "topics": [
               "game",
               "radarr",
@@ -269,7 +269,7 @@
             "open_issues": 95,
             "owner": "FlareSolverr",
             "repo": "FlareSolverr",
-            "stars": 15741,
+            "stars": 15751,
             "topics": [
               "api",
               "chrome",
@@ -298,7 +298,7 @@
             "language": "Makefile",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T07:58:27Z",
-            "open_issues": 49,
+            "open_issues": 47,
             "owner": "HaveAGitGat",
             "repo": "Tdarr",
             "stars": 4340,
@@ -325,11 +325,11 @@
             "id": 88102501,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T11:21:56Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-02T10:53:20Z",
+            "open_issues": 38,
             "owner": "morpheus65535",
             "repo": "bazarr",
-            "stars": 4313,
+            "stars": 4312,
             "topics": [
               "download-subtitles",
               "episodes",
@@ -387,11 +387,11 @@
             "id": 317119399,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T22:17:26Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-02T21:14:17Z",
+            "open_issues": 9,
             "owner": "Kometa-Team",
             "repo": "Kometa",
-            "stars": 3443,
+            "stars": 3442,
             "topics": [
               "kometa"
             ]
@@ -410,11 +410,11 @@
             "id": 535751429,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T10:09:35Z",
+            "last_commit": "2026-10-02T09:47:22Z",
             "open_issues": 155,
             "owner": "wizarrrr",
             "repo": "wizarr",
-            "stars": 3208,
+            "stars": 3207,
             "topics": [
               "emby",
               "inviter",
@@ -439,11 +439,11 @@
             "id": 1105674960,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-01T22:49:53Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-03T01:42:11Z",
+            "open_issues": 5,
             "owner": "connorgallopo",
             "repo": "Tracearr",
-            "stars": 2681,
+            "stars": 2680,
             "topics": [
               "docker",
               "emby",
@@ -481,7 +481,7 @@
             "id": 883948587,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T08:27:44Z",
+            "last_commit": "2026-10-02T06:55:50Z",
             "open_issues": 29,
             "owner": "Cleanuparr",
             "repo": "Cleanuparr",
@@ -524,7 +524,7 @@
             "open_issues": 67,
             "owner": "aleksilassila",
             "repo": "reiverr",
-            "stars": 2349,
+            "stars": 2348,
             "topics": [
               "jellyfin",
               "movies",
@@ -548,11 +548,11 @@
             "id": 447140444,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T22:03:43Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-02T23:22:54Z",
+            "open_issues": 8,
             "owner": "Maintainerr",
             "repo": "Maintainerr",
-            "stars": 2312,
+            "stars": 2315,
             "topics": [
               "docker",
               "jellyfin",
@@ -584,8 +584,8 @@
             "id": 336108922,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-01T15:34:15Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-03T01:34:48Z",
+            "open_issues": 12,
             "owner": "recyclarr",
             "repo": "recyclarr",
             "stars": 2128,
@@ -605,11 +605,11 @@
             "id": 833175677,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-01T05:03:55Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-02T18:26:35Z",
+            "open_issues": 17,
             "owner": "ThePhaseless",
             "repo": "Byparr",
-            "stars": 1967,
+            "stars": 1971,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -649,8 +649,8 @@
             "id": 132426524,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-02T01:38:37Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-02T14:46:52Z",
+            "open_issues": 7,
             "owner": "Unpackerr",
             "repo": "unpackerr",
             "stars": 1487,
@@ -757,10 +757,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-28T10:36:39Z",
-            "open_issues": 16,
+            "open_issues": 18,
             "owner": "giuseppe99barchetta",
             "repo": "SuggestArr",
-            "stars": 1331,
+            "stars": 1332,
             "topics": [
               "automation",
               "docker",
@@ -838,37 +838,12 @@
             "open_issues": 14,
             "owner": "mrusse",
             "repo": "soularr",
-            "stars": 983,
+            "stars": 984,
             "topics": [
               "lidarr",
               "slskd",
               "soularr",
               "soulseek"
-            ]
-          },
-          "first_seen": "2026-08-28T06:57:48.928Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Posterizarr",
-          "description": "Automated poster maker for Plex/Jellyfin/Emby.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🖼️ Automated asset maker for Plex/Jellyfin/Emby.",
-            "homepage": "https://fscorrupt.github.io/posterizarr/",
-            "id": 751781457,
-            "language": "JavaScript",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-01T10:46:42Z",
-            "open_issues": 3,
-            "owner": "fscorrupt",
-            "repo": "posterizarr",
-            "stars": 932,
-            "topics": [
-              "arr",
-              "assets",
-              "imagemagick"
             ]
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -889,7 +864,7 @@
             "open_issues": 9,
             "owner": "germondai",
             "repo": "trawl",
-            "stars": 932,
+            "stars": 935,
             "topics": [
               "anti-bot",
               "anti-detection",
@@ -911,6 +886,31 @@
               "sonarr",
               "typescript",
               "web-scraping"
+            ]
+          },
+          "first_seen": "2026-08-28T06:57:48.928Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Posterizarr",
+          "description": "Automated poster maker for Plex/Jellyfin/Emby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🖼️ Automated asset maker for Plex/Jellyfin/Emby.",
+            "homepage": "https://fscorrupt.github.io/posterizarr/",
+            "id": 751781457,
+            "language": "JavaScript",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-02T15:01:57Z",
+            "open_issues": 3,
+            "owner": "fscorrupt",
+            "repo": "posterizarr",
+            "stars": 931,
+            "topics": [
+              "arr",
+              "assets",
+              "imagemagick"
             ]
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -971,7 +971,7 @@
             "open_issues": 20,
             "owner": "lingarr-translate",
             "repo": "lingarr",
-            "stars": 881,
+            "stars": 883,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -1091,7 +1091,7 @@
             "id": 914233315,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-01T03:44:37Z",
+            "last_commit": "2026-10-02T22:19:54Z",
             "open_issues": 4,
             "owner": "jamcalli",
             "repo": "Pulsarr",
@@ -1168,7 +1168,7 @@
             "open_issues": 40,
             "owner": "Cloudbox",
             "repo": "autoscan",
-            "stars": 660,
+            "stars": 661,
             "topics": [
               "autoscan",
               "emby",
@@ -1242,7 +1242,7 @@
             "open_issues": 11,
             "owner": "aetaric",
             "repo": "checkrr",
-            "stars": 581,
+            "stars": 580,
             "topics": [
               "audio",
               "audio-processing",
@@ -1268,8 +1268,8 @@
             "id": 849573960,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-29T16:42:13Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-02T21:48:24Z",
+            "open_issues": 10,
             "owner": "dan-online",
             "repo": "autopulse",
             "stars": 551,
@@ -1318,11 +1318,11 @@
             "id": 768813127,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T00:55:05Z",
+            "last_commit": "2026-10-02T05:11:12Z",
             "open_issues": 8,
             "owner": "nandyalu",
             "repo": "trailarr",
-            "stars": 468,
+            "stars": 467,
             "topics": [
               "plex",
               "radarr",
@@ -1463,7 +1463,7 @@
             "open_issues": 32,
             "owner": "PCJones",
             "repo": "MediathekArr",
-            "stars": 373,
+            "stars": 374,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -1505,7 +1505,7 @@
             "open_issues": 12,
             "owner": "Flemmarr",
             "repo": "Flemmarr",
-            "stars": 346,
+            "stars": 345,
             "topics": [
               "lidarr",
               "prowlarr",
@@ -1587,7 +1587,7 @@
             "open_issues": 1,
             "owner": "iuliandita",
             "repo": "digarr",
-            "stars": 299,
+            "stars": 298,
             "topics": [
               "ai",
               "albums",
@@ -1670,7 +1670,7 @@
             "open_issues": 11,
             "owner": "TheUltimateC0der",
             "repo": "listrr",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "api",
               "aspnet",
@@ -1885,7 +1885,7 @@
             "open_issues": 0,
             "owner": "rix1337",
             "repo": "Quasarr",
-            "stars": 156,
+            "stars": 157,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -2069,7 +2069,7 @@
             "open_issues": 1,
             "owner": "itsmejoeeey",
             "repo": "linkarr",
-            "stars": 110,
+            "stars": 109,
             "topics": [
               "episodes",
               "jellyfin",
@@ -2154,7 +2154,7 @@
             "open_issues": 3,
             "owner": "drkno",
             "repo": "transcoderr",
-            "stars": 67,
+            "stars": 66,
             "topics": [
               "hacktoberfest"
             ]
@@ -2177,7 +2177,7 @@
             "open_issues": 7,
             "owner": "nullable-eth",
             "repo": "labelarr",
-            "stars": 66,
+            "stars": 65,
             "topics": [
               "plex",
               "plex-media-server",
@@ -2377,7 +2377,7 @@
             "open_issues": 1,
             "owner": "TMD20",
             "repo": "crossarr",
-            "stars": 30,
+            "stars": 29,
             "topics": [
               "cross-seed",
               "cross-seeding",
@@ -2573,7 +2573,7 @@
             "open_issues": 8,
             "owner": "danimart1991",
             "repo": "jackett2telegram",
-            "stars": 53,
+            "stars": 52,
             "topics": [
               "indexer",
               "jackett",
@@ -2631,11 +2631,11 @@
             "id": 528313152,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T00:55:54Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-03T00:53:14Z",
+            "open_issues": 1,
             "owner": "gethomepage",
             "repo": "homepage",
-            "stars": 32948,
+            "stars": 32955,
             "topics": [
               "docker",
               "homepage",
@@ -2660,11 +2660,11 @@
             "id": 343078060,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-10-01T15:10:58Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-02T18:57:09Z",
+            "open_issues": 20,
             "owner": "lissy93",
             "repo": "dashy",
-            "stars": 26605,
+            "stars": 26607,
             "topics": [
               "awesome",
               "dashboard",
@@ -2699,7 +2699,7 @@
             "open_issues": 171,
             "owner": "bastienwirtz",
             "repo": "homer",
-            "stars": 11638,
+            "stars": 11640,
             "topics": [
               "dashboard",
               "hacktoberfest",
@@ -2727,7 +2727,7 @@
             "open_issues": 4,
             "owner": "linuxserver",
             "repo": "Heimdall",
-            "stars": 9343,
+            "stars": 9342,
             "topics": [
               "application-dashboard",
               "bookmark",
@@ -2769,7 +2769,7 @@
             "open_issues": 176,
             "owner": "pawelmalak",
             "repo": "flame",
-            "stars": 6559,
+            "stars": 6560,
             "topics": [
               "homepage",
               "self-hosted",
@@ -2826,16 +2826,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A modern and easy to use dashboard. 40+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.",
+            "description": "A modern and easy to use dashboard. 80+ integrations. 20K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.",
             "homepage": "https://homarr.dev",
             "id": 729308541,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T17:06:36Z",
-            "open_issues": 169,
+            "last_commit": "2026-10-03T01:56:31Z",
+            "open_issues": 105,
             "owner": "homarr-labs",
             "repo": "homarr",
-            "stars": 4941,
+            "stars": 4956,
             "topics": [
               "dashboard",
               "docker",
@@ -2852,7 +2852,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:19:34.860Z",
+    "last_updated": "2026-10-03T02:06:41.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of *arrs and related stuff.",
@@ -2864,7 +2864,7 @@
       "open_issues": 12,
       "owner": "Ravencentric",
       "repo": "awesome-arr",
-      "stars": 4373,
+      "stars": 4375,
       "topics": [
         "automation",
         "awesome",
