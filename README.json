@@ -15,11 +15,11 @@
             "id": 45195614,
             "language": "C#",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-05T17:36:30Z",
+            "last_commit": "2026-10-06T06:04:55Z",
             "open_issues": 223,
             "owner": "Jackett",
             "repo": "Jackett",
-            "stars": 16146,
+            "stars": 16155,
             "topics": [
               "api",
               "couchpotato",
@@ -61,7 +61,7 @@
             "open_issues": 147,
             "owner": "Prowlarr",
             "repo": "Prowlarr",
-            "stars": 7329,
+            "stars": 7330,
             "topics": [
               "hacktoberfest",
               "indexer",
@@ -91,11 +91,11 @@
             "id": 1016941202,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T02:07:21Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-06T06:56:52Z",
+            "open_issues": 22,
             "owner": "Nezreka",
             "repo": "SoulSync",
-            "stars": 2260,
+            "stars": 2262,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -231,11 +231,11 @@
             "id": 1062041316,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T01:44:33Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-06T07:21:30Z",
+            "open_issues": 14,
             "owner": "Doezer",
             "repo": "Questarr",
-            "stars": 675,
+            "stars": 676,
             "topics": [
               "game",
               "radarr",
@@ -269,7 +269,7 @@
             "open_issues": 98,
             "owner": "FlareSolverr",
             "repo": "FlareSolverr",
-            "stars": 15772,
+            "stars": 15775,
             "topics": [
               "api",
               "chrome",
@@ -298,10 +298,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-05T23:53:28Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "morpheus65535",
             "repo": "bazarr",
-            "stars": 4348,
+            "stars": 4349,
             "topics": [
               "download-subtitles",
               "episodes",
@@ -410,7 +410,7 @@
             "id": 535751429,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T10:37:46Z",
+            "last_commit": "2026-10-06T10:19:16Z",
             "open_issues": 155,
             "owner": "wizarrrr",
             "repo": "wizarr",
@@ -439,11 +439,11 @@
             "id": 1105674960,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T02:42:03Z",
+            "last_commit": "2026-10-06T09:34:02Z",
             "open_issues": 8,
             "owner": "connorgallopo",
             "repo": "Tracearr",
-            "stars": 2686,
+            "stars": 2688,
             "topics": [
               "docker",
               "emby",
@@ -552,7 +552,7 @@
             "open_issues": 6,
             "owner": "Maintainerr",
             "repo": "Maintainerr",
-            "stars": 2319,
+            "stars": 2320,
             "topics": [
               "docker",
               "jellyfin",
@@ -588,7 +588,7 @@
             "open_issues": 10,
             "owner": "recyclarr",
             "repo": "recyclarr",
-            "stars": 2133,
+            "stars": 2135,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -609,7 +609,7 @@
             "open_issues": 18,
             "owner": "ThePhaseless",
             "repo": "Byparr",
-            "stars": 1976,
+            "stars": 1977,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -630,7 +630,7 @@
             "open_issues": 6,
             "owner": "linuxserver",
             "repo": "docker-mods",
-            "stars": 1544,
+            "stars": 1545,
             "topics": [
               "hacktoberfest"
             ]
@@ -653,7 +653,7 @@
             "open_issues": 9,
             "owner": "Unpackerr",
             "repo": "unpackerr",
-            "stars": 1489,
+            "stars": 1488,
             "topics": [
               "deluge",
               "deluge-web",
@@ -902,8 +902,8 @@
             "id": 751781457,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-05T10:30:21Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-06T08:24:07Z",
+            "open_issues": 4,
             "owner": "fscorrupt",
             "repo": "posterizarr",
             "stars": 930,
@@ -971,7 +971,7 @@
             "open_issues": 17,
             "owner": "lingarr-translate",
             "repo": "lingarr",
-            "stars": 884,
+            "stars": 883,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -1091,7 +1091,7 @@
             "id": 914233315,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T00:00:03Z",
+            "last_commit": "2026-10-06T07:46:21Z",
             "open_issues": 7,
             "owner": "jamcalli",
             "repo": "Pulsarr",
@@ -1383,7 +1383,7 @@
             "open_issues": 16,
             "owner": "nix-media-server",
             "repo": "nixarr",
-            "stars": 430,
+            "stars": 431,
             "topics": [
               "jellyfin",
               "nixos",
@@ -1583,7 +1583,7 @@
             "id": 1184726701,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T16:29:16Z",
+            "last_commit": "2026-10-06T06:50:55Z",
             "open_issues": 3,
             "owner": "iuliandita",
             "repo": "digarr",
@@ -1927,7 +1927,7 @@
             "id": 938915395,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-05T03:34:54Z",
+            "last_commit": "2026-10-06T03:09:44Z",
             "open_issues": 4,
             "owner": "Vansmak",
             "repo": "episeerr",
@@ -1990,6 +1990,33 @@
         },
         {
           "node_type": "item",
+          "title": "Dasharr",
+          "description": "Dashboard of torrent indexers usage, profile stats evolution over time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Dashboard of your indexers' usage",
+            "homepage": null,
+            "id": 1063144797,
+            "language": "Rust",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-08T21:20:04Z",
+            "open_issues": 17,
+            "owner": "Arcadia-Solutions",
+            "repo": "Dasharr",
+            "stars": 111,
+            "topics": [
+              "arr",
+              "bittorrent",
+              "gazelle",
+              "torrent",
+              "tracker"
+            ]
+          },
+          "first_seen": "2026-08-28T06:57:48.928Z"
+        },
+        {
+          "node_type": "item",
           "title": "Plexist",
           "description": "An application for recreating Spotify and Deezer playlist in Plex.",
           "children": [],
@@ -2022,33 +2049,6 @@
               "spotify-playlist",
               "spotify-util",
               "tidal-playlist"
-            ]
-          },
-          "first_seen": "2026-08-28T06:57:48.928Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Dasharr",
-          "description": "Dashboard of torrent indexers usage, profile stats evolution over time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Dashboard of your indexers' usage",
-            "homepage": null,
-            "id": 1063144797,
-            "language": "Rust",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-09-08T21:20:04Z",
-            "open_issues": 17,
-            "owner": "Arcadia-Solutions",
-            "repo": "Dasharr",
-            "stars": 110,
-            "topics": [
-              "arr",
-              "bittorrent",
-              "gazelle",
-              "torrent",
-              "tracker"
             ]
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -2573,7 +2573,7 @@
             "open_issues": 11,
             "owner": "activexray",
             "repo": "doplarr_rs",
-            "stars": 53,
+            "stars": 54,
             "topics": []
           },
           "first_seen": "2026-08-28T06:57:48.928Z"
@@ -2631,11 +2631,11 @@
             "id": 528313152,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T02:00:30Z",
+            "last_commit": "2026-10-06T04:21:27Z",
             "open_issues": 0,
             "owner": "gethomepage",
             "repo": "homepage",
-            "stars": 32988,
+            "stars": 32989,
             "topics": [
               "docker",
               "homepage",
@@ -2664,7 +2664,7 @@
             "open_issues": 18,
             "owner": "lissy93",
             "repo": "dashy",
-            "stars": 26634,
+            "stars": 26637,
             "topics": [
               "awesome",
               "dashboard",
@@ -2699,7 +2699,7 @@
             "open_issues": 171,
             "owner": "bastienwirtz",
             "repo": "homer",
-            "stars": 11642,
+            "stars": 11643,
             "topics": [
               "dashboard",
               "hacktoberfest",
@@ -2831,11 +2831,11 @@
             "id": 729308541,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T18:10:46Z",
+            "last_commit": "2026-10-06T09:53:21Z",
             "open_issues": 121,
             "owner": "homarr-labs",
             "repo": "homarr",
-            "stars": 5006,
+            "stars": 5007,
             "topics": [
               "dashboard",
               "docker",
@@ -2852,7 +2852,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T03:08:15.119Z",
+    "last_updated": "2026-10-06T10:23:09.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of *arrs and related stuff.",
